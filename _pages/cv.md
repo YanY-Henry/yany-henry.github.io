@@ -1,59 +1,58 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+**[Download the PDF Version](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf)**
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+{% include base_path %} 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [**Bachelor of Science** in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }
+  * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - July. 2025 (expected).
+  * Cumulative GPA: **3.715**/4.000.
+  * A member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
+  * **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; **Data Analytics Stream** in Computer Science.
+* **Spring Semester Exchange** to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, **[Peking University (PKU)](https://english.pku.edu.cn){: .no-underline-black-link }**, 2022-23.
+* Ranked **top 0.4%** among 110,000 science students in the 2021 National College Entrance Exam.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Research Experience
+
+* **Efficient Video Analytics** (June 2023 - present)
+  * Research Assistant to [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) (CUHK).
+  * Won the **Best Project Award 2023** among 58 undergraduate projects.
+  * Using computer vision models combined with natural language processing models to quickly extract the location information of target people and objects from a large number of videos.
+  * The ultimate goal is to provide an accurate and efficient lost-and-found system for the Hong Kong Airport.
+
+* **Traffic Characteristics Analysis of the Network** (May 2023 - present)
+  * Research Assistant to [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) (PKU).
+  * Based on the high-performance traffic analysis platform built independently and the core traffic data collected, conducting comprehensive and in-depth traffic feature statistics and analysis from the link, traffic and packet level.
+
+
+## Honors and Scholarships
+
+* Dean’s List (**Top 10%** in Faculty of Engineering), 2021-22;
+* Best Project Award (**Top 5** of 58 Undergraduate Summer Research Internship), 2022-23;
+* College Outstanding Student Scholarship (5,000HKD), 2022-23;
+* Wu Yee Sun Student Exchange Scholarships (15,000HKD), 2022-23;
+* Yasumoto International Exchange Scholarship (5,500HKD), 2022-23 & 2023-24;
+* S.H. Ho College Matriculation on Scholarships for Academic Excellence (5,000HKD), 2021-22;
+* Second Prize in National Physics Competition for Senior High, 2019-20;
+* Second Prize in National Mathematics Competition for Senior High, 2020-21.
+
+## Teaching Assistant
+
+* GESH1010 (Fall 2022@CUHK): [Orientation and Outreach](https://www.shho.cuhk.edu.hk/general-education/induction-course-1010/overview/){: .no-underline-black-link }
+  * S.H. Ho College General Education Induction Course
+ 
+
+## Skills
+* **Language**: English (Fluent), Mandarin (Native) and Cantonese (Intermediate).
+* **Programming**:  C/C++, Java, JavaScript, MATLAB, Python, SQL and Markdown.
+* **Tools**: LaTeX, Anaconda, Git and Linux.
