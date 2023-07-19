@@ -41,13 +41,13 @@ redirect_from:
 * College Outstanding Student Scholarship (5,000HKD), 2022-23;
 * Wu Yee Sun Student Exchange Scholarships (15,000HKD), 2022-23;
 * Yasumoto International Exchange Scholarship (2,000HKD), 2022-23;
-* S.H. Ho College Matriculation on Scholarships for Academic Excellence (5,000HD), 2021-22;
+* S.H. Ho College Matriculation on Scholarships for Academic Excellence (5,000HKD), 2021-22;
 * Second Prize in National Physics Competition for Senior High, 2019-20;
 * Second Prize in National Mathematics Competition for Senior High, 2020-21.
 
 ## Teaching Assistant
 
-* GESH1010(Fall 2022): Orientation and Outreach
+* GESH1010 (Fall 2022): Orientation and Outreach
   * S.H. Ho College General Education Induction Course
  
 
