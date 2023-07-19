@@ -6,7 +6,7 @@ sitemap: true
 author_profile: true
 ---
 
-* **Mandarin Debate Team of CUHK** (Sep. 2021 - present)
+* **CUHK Mandarin Debate Team** (Sep. 2021 - present)
   * Second place in the "Shier Jiao" Cup (12 teams from around Hong Kong), Apr. 2022;
   * Third place in the "INNO Boyue" Cup (24 teams from around the world), July 2022.
 
@@ -17,3 +17,4 @@ author_profile: true
   * 2022 Quanzhou Volunteer Teaching Project Volunteers
   * During the project, we cared for the children of prison inmates, communicated with them through letters, and spent two weeks in offline classes to teach the knowledge.
 
+By the way, I really love cute dogs and cats. I've been involved in stray animal protection activities on campus and also have some pets of my own. I bet you'd be interested in seeing my adorable friends!!!
