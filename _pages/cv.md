@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} 
 
 [Download CV here (last update: waiting)](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf)
 
