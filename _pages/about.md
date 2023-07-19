@@ -15,4 +15,4 @@ I am a junior undergraduate student at **the Chinese University of Hong Kong(CUH
 I am currently working on:
 
 1. **Traffic Characteristics Analysis of the Network** under the supervision of [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) at PKU.
-2. **Efficient Joins on Video Data** under the supervision of [Prof. Eric Chi Lik Lo](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) at CUHK.
+2. **Efficient Joins on Video Data** under the supervision of [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) at CUHK.
