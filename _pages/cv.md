@@ -19,7 +19,6 @@ redirect_from:
 * **Term Exchange** Spring semester exchange program in Yuanpei College, Peking University(PKU), 2022-23.
 
 ## Work experience
-======
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
