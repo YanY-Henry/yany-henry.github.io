@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here (last update: waiting)](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf)
+
 ## Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Bachelor of Science** in Computer Science
+  * The Chinese University of Hong Kong (CUHK), Sep. 2021- July. 2025 (expected).
+  * Cumulative GPA: **3.715**/4.000.
+  * Intelligence Science Stream in CS; ELITE Stream([ESTR](https://www.erg.cuhk.edu.hk/erg/Elite)) of Faculty of Engineering.
+* **Term Exchange** Spring semester exchange program in Yuanpei College, Peking University(PKU), 2022-23.
 
 ## Work experience
 ======
