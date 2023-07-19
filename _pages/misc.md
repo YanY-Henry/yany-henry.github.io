@@ -20,7 +20,10 @@ author_profile: true
 ## Some special friends of mine
 I do love cute dogs and cats. I've been involved in stray animal protection activities on campus and also have some pets of my own. I bet you'd be interested in seeing my adorable friends!!!
 
-<img src="../images/dog1_1.jpg" width=200 /><img src="../images/dog1_2.jpg" width=200 />
-<img src="../images/dog2_1.jpg" width=400 />
-<img src="../images/dog2_2.jpg" width=400 />
-<img src="../images/cat1.1.jpg" width=200 /><img src="../images/cat1.2.jpg" width=200 />
+<img src="../images/dog1_1.jpg" width=200 /> <img src="../images/dog1_2.jpg" width=200 /><br>
+
+<img src="../images/dog2_1.jpg" width=401 /><br>
+
+<img src="../images/dog2_2.jpg" width=401 /><br>
+
+<img src="../images/cat1.1.jpg" width=200 /> <img src="../images/cat1.2.jpg" width=200 />
