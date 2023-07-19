@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yuhang's Page"
+title: "Welcome to Yuhang's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
