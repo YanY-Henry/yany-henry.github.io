@@ -1,4 +1,6 @@
+@import "_variables";
+
 .no-underline-black-link {
-    color: black !important;
+    color: $text-color !important;
     text-decoration: none !important;
   }
