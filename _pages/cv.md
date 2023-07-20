@@ -14,11 +14,11 @@ redirect_from:
 ## Education
 
 * **Bachelor of Science** in Computer Science
-  * <font color="black"> **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html)**, Sep. 2021 - July. 2025 (expected). </font>
+  * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - July. 2025 (expected).
   * Cumulative GPA: **3.715**/4.000.
   * A member of S.H. Ho College.
   * Intelligence Science Stream in Computer Science; ELITE Stream ([ESTR](https://www.erg.cuhk.edu.hk/erg/Elite)) of Faculty of Engineering.
-* **Term Exchange** Spring semester exchange program in Yuanpei College, **[Peking University (PKU)](https://english.pku.edu.cn)**, 2022-23.
+* **Term Exchange** Spring semester exchange program in Yuanpei College, **[Peking University (PKU)](https://english.pku.edu.cn){: .no-underline-black-link }**, 2022-23.
 * Ranked **top 0.4%** among 110,000 science students in the National College Entrance Exam.
 
 
