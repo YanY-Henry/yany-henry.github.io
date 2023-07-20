@@ -1,18 +1,20 @@
 ---
 layout: archive
-title: "Curriculum Vitae ([PDF Version](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf))"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+**[Download the PDF Version](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf)**
+
 {% include base_path %} 
 
 ## Education
 
 * **Bachelor of Science** in Computer Science
-  * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html)**, Sep. 2021 - July. 2025 (expected).
+  * <font color="black"> **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html)**, Sep. 2021 - July. 2025 (expected). </font>
   * Cumulative GPA: **3.715**/4.000.
   * A member of S.H. Ho College.
   * Intelligence Science Stream in Computer Science; ELITE Stream ([ESTR](https://www.erg.cuhk.edu.hk/erg/Elite)) of Faculty of Engineering.
