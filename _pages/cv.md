@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %} 
 
-[Download CV here (last update: waiting)](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf)
+[Download the CV here](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf)
 
 
 ## Education
