@@ -18,7 +18,7 @@ redirect_from:
   * Cumulative GPA: **3.715**/4.000.
   * A member of S.H. Ho College.
   * Intelligence Science Stream in Computer Science; ELITE Stream ([ESTR](https://www.erg.cuhk.edu.hk/erg/Elite)) of Faculty of Engineering.
-* **Term Exchange** Spring semester exchange program in Yuanpei College, **[Peking University (PKU)](https://english.pku.edu.cn){: .no-underline-black-link }**, 2022-23.
+* **Term Exchange** Spring semester exchange program in Yuanpei College, **[Peking University (PKU)](https://english.pku.edu.cn)**, 2022-23.
 * Ranked **top 0.4%** among 110,000 science students in the National College Entrance Exam.
 
 
