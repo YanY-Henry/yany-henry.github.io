@@ -18,7 +18,7 @@ redirect_from:
   * Cumulative GPA: **3.715**/4.000.
   * A member of [S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }.
   * Intelligence Science Stream in Computer Science; [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link } of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }.
-* **Term Exchange** Spring semester exchange program in Yuanpei College, **[Peking University (PKU)](https://english.pku.edu.cn){: .no-underline-black-link }**, 2022-23.
+* **Term Exchange** Spring semester exchange program in [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, **[Peking University (PKU)](https://english.pku.edu.cn){: .no-underline-black-link }**, 2022-23.
 * Ranked **top 0.4%** among 110,000 science students in the National College Entrance Exam.
 
 
@@ -46,7 +46,7 @@ redirect_from:
 
 ## Teaching Assistant
 
-* GESH1010 (Fall 2022): Orientation and Outreach
+* GESH1010 (Fall 2022): [Orientation and Outreach](https://www.shho.cuhk.edu.hk/general-education/induction-course-1010/overview/){: .no-underline-black-link }
   * S.H. Ho College General Education Induction Course
  
 
