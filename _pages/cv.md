@@ -39,7 +39,7 @@ redirect_from:
 * Dean’s List (**Top 10%**) of 2021-22;
 * College Outstanding Student Scholarship (5,000HKD), 2022-23;
 * Wu Yee Sun Student Exchange Scholarships (15,000HKD), 2022-23;
-* Yasumoto International Exchange Scholarship (5,500HKD), 2022-23, 2023-24;
+* Yasumoto International Exchange Scholarship (5,500HKD), 2022-23 & 2023-24;
 * S.H. Ho College Matriculation on Scholarships for Academic Excellence (5,000HKD), 2021-22;
 * Second Prize in National Physics Competition for Senior High, 2019-20;
 * Second Prize in National Mathematics Competition for Senior High, 2020-21.
