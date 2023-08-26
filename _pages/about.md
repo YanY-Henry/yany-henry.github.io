@@ -14,5 +14,5 @@ I am YAN Yuhang Henry (闫禹杭), a junior undergraduate student at **the Chine
 
 I am currently working on:
 
-1. **Traffic Characteristics Analysis of the Network** under the supervision of Prof. Tong YANG at PKU.
-2. **Efficient Joins on Video Data** under the supervision of Prof. Eric Chi Lik LO at CUHK.
+1. **Efficient Video Analytics** under the supervision of Prof. Eric Chi Lik LO at CUHK.
+2. **Traffic Characteristics Analysis of the Network** under the supervision of Prof. Tong YANG at PKU.
