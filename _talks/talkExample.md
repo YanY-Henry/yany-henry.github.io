@@ -9,3 +9,5 @@ location: "New Territories, Hong Kong SAR"
 ---
 
 This is an example of a talk.
+
+[More information here](http://example2.com)
