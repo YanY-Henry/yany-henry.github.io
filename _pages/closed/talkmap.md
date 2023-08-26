@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: false
 title: "Talk map"
 <!-- permalink: /talkmap.html -->
 author_profile: true
