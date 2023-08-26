@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: false
 <!-- permalink: /year-archive/ -->
 title: "Blog posts"
 author_profile: true
