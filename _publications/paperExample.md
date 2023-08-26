@@ -7,6 +7,7 @@ date: 2000-01-01
 venue: 'Journal E'
 paperurl: 'http://academicpages.github.io/files/paperExample.pdf'
 citation: 'Yuhang, YAN. (2000). &quot;Example&quot; <i>Journal E</i>. 1(1).'
+published: false
 ---
 This is an example of a published paper.
 
