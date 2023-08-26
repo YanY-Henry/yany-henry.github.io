@@ -1,9 +1,8 @@
 ---
-layout: archive
+layout: false
 title: "Page Archive"
 <!-- permalink: /page-archive/ -->
 author_profile: false
-published: false
 ---
 
 {% include base_path %}
