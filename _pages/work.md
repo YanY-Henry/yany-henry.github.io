@@ -1,10 +1,10 @@
 ---
 layout: archive
+published: false
 title: "Work Experience"
 permalink: /work/
 author_profile: true
 redirect_from:
-
 ---
 
 * **Efficient Joins on Video Data** (June 2023 - present)
