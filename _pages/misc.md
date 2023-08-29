@@ -17,7 +17,6 @@ author_profile: true
   * 2022 Quanzhou Volunteer Teaching Project volunteers
   * During the project, we cared for the children of prison inmates, communicated with them through letters, and spent two weeks in offline classes to teach the knowledge.
 
-<!--
 ## Some Special Friends of Mine
 I do love cute dogs and cats. I've been involved in stray animal protection activities on campus and also have some pets of my own. I bet you'd be interested in seeing my adorable friends!!!
 
@@ -28,4 +27,3 @@ I do love cute dogs and cats. I've been involved in stray animal protection acti
 <img src="../images/dog2_2.jpg" width=502 /><br>
 
 <img src="../images/cat1.1.jpg" width=250 /> <img src="../images/cat1.2.jpg" width=250 />
--->
