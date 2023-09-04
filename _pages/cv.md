@@ -16,9 +16,9 @@ redirect_from:
 * [**Bachelor of Science** in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }
   * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - July. 2025 (expected).
   * Cumulative GPA: **3.715**/4.000.
-  * A member of [S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }.
-  * Data Analytics Stream in Computer Science; [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link } of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }.
-* **Term Exchange** Spring semester exchange program in [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, **[Peking University (PKU)](https://english.pku.edu.cn){: .no-underline-black-link }**, 2022-23.
+  * A member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
+  * [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; **Data Analytics Stream** in Computer Science**.
+* **Spring Semester Exchange** to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, **[Peking University (PKU)](https://english.pku.edu.cn){: .no-underline-black-link }**, 2022-23.
 * Ranked **top 0.4%** among 110,000 science students in the 2021 National College Entrance Exam.
 
 
