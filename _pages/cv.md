@@ -37,7 +37,8 @@ redirect_from:
 
 ## Honors and Scholarships
 
-* Dean’s List (**Top 10%**) of 2021-22;
+* Dean’s List (**Top 10%** in Faculty of Engineering), 2021-22;
+* Best Project Award (**Top 5** of 58 Undergraduate Summer Research Internship), 2022-23;
 * College Outstanding Student Scholarship (5,000HKD), 2022-23;
 * Wu Yee Sun Student Exchange Scholarships (15,000HKD), 2022-23;
 * Yasumoto International Exchange Scholarship (5,500HKD), 2022-23 & 2023-24;
