@@ -26,6 +26,7 @@ redirect_from:
 
 * **Efficient Video Analytics** (June 2023 - present)
   * Research Assistant to [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) (CUHK).
+  * Won the **Best Project Award 2023** among 58 undergraduate projects
   * Using computer vision models combined with natural language processing models to quickly extract the location information of target people and objects from a large number of videos.
   * The ultimate goal is to provide an accurate and efficient lost-and-found system for the Hong Kong Airport.
 
