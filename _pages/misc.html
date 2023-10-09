@@ -6,6 +6,21 @@ sitemap: true
 author_profile: true
 ---
 
+* **CUHK Mandarin Debate Team** (Sep. 2021 - present)
+  * Second place in the "Shier Jiao" Cup (12 teams from around Hong Kong), Apr. 2022;
+  * Third place in the "INNO Boyue" Cup (24 teams from around the world), July 2022.
+
+* **MUA Football Team** (Sep. 2022 - present)
+  * Second place in the Hong Kong Mainland Undergraduate Football League (9 teams from around Hong Kong), Apr. 2023.
+
+* **FUJIA Volunteer Teaching Society** (May 2022 — Aug. 2022)
+  * 2022 Quanzhou Volunteer Teaching Project volunteers
+  * During the project, we cared for the children of prison inmates, communicated with them through letters, and spent two weeks in offline classes to teach the knowledge.
+
+## Some Special Friends of Mine
+I do love cute dogs and cats. I've been involved in stray animal protection activities on campus and also have some pets of my own. I bet you'd be interested in seeing my adorable friends!!!
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -43,57 +58,11 @@ author_profile: true
     </style>
     <script>
 
-        window.onload=function(){
-		var oDiv=document.getElementById('running-bar');
-		var oUl=oDiv.getElementsByTagName('ul')[0];
-		var aLi=oUl.getElementsByTagName('li');
-		var aA=document.getElementsByTagName('a');
-		var timer=null;
-		var iSpeed=1.5;
-		oUl.innerHTML+=oUl.innerHTML;
-		oUl.style.width=aLi.length*aLi[0].offsetWidth+'px';
-		function fnMove(){
-			if(oUl.offsetLeft<=-oUl.offsetWidth/2){
-				oUl.style.left=0;
-			}else if(oUl.offsetLeft>0){
-				oUl.style.left=-oUl.offsetWidth/2+'px';
-			}
-			oUl.style.left=oUl.offsetLeft+iSpeed+'px';
-            
-            }
-            timer=setInterval(fnMove,30);
-            
-            oDiv.onmouseover=function(){
-                clearInterval(timer);
-            }
-            oDiv.onmouseout=function(){
-                timer=setInterval(fnMove,30);
-            }
-        };
+        
     </script>
 </head>
 <body>
     <main>
-        <h2>CUHK Mandarin Debate Team (Sep. 2021 - present)</h2>
-        <ul>
-            <li>Second place in the "Shier Jiao" Cup (12 teams from around Hong Kong), Apr. 2022;</li>
-            <li>Third place in the "INNO Boyue" Cup (24 teams from around the world), July 2022.</li>
-        </ul>
-
-        <h2>MUA Football Team (Sep. 2022 - present)</h2>
-        <ul>
-            <li>Second place in the Hong Kong Mainland Undergraduate Football League (9 teams from around Hong Kong), Apr. 2023.</li>
-        </ul>
-
-        <h2>FUJIA Volunteer Teaching Society (May 2022 — Aug. 2022)</h2>
-        <ul>
-            <li>2022 Quanzhou Volunteer Teaching Project volunteers</li>
-            <li>During the project, we cared for the children of prison inmates, communicated with them through letters, and spent two weeks in offline classes to teach the knowledge.</li>
-        </ul>
-
-        <h2>Some Special Friends of Mine</h2>
-        <p>I do love cute dogs and cats. I've been involved in stray animal protection activities on campus and also have some pets of my own. I bet you'd be interested in seeing my adorable friends!!!</p>
-        
         <div id="running-bar">
             <ul>
                 <li><a href="../images/dog1_1.jpg" target="_blank"><img src="../images/dog1_1.jpg" alt="" height="110"></a></li>
@@ -104,6 +73,15 @@ author_profile: true
                 <li><a href="../images/cat1.2.jpg" target="_blank"><img src="../images/cat1.2.jpg" alt="" height="110"></a></li>
             </ul>
         </div>
+
+	<script>
+    		var imgList = document.querySelector('#image-list');
+   		imgList.addEventListener('animationiteration', function() {
+        	var firstImg = imgList.querySelector('li:first-child').cloneNode(true);
+        	imgList.appendChild(firstImg);
+        		imgList.removeChild(imgList.querySelector('li:first-child'));
+    		});
+    	</script>
     </main>
 </body>
 </html>
