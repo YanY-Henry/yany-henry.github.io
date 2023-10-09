@@ -37,86 +37,15 @@ author_profile: true
 <p>I do love cute dogs and cats. I've been involved in stray animal protection activities on campus and also have some pets of my own. I bet you'd be interested in seeing my adorable friends!!!</p>
 
 
-
-
-
 <!--
+TODO： Add an auto carousel in HTML
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Miscellaneous</title>
-    <style>
-        #running-bar {
-            width: 100%;
-            overflow: hidden;  /* 隐藏超出容器的部分 */
-        }
-        #running-bar ul {
-            overflow: auto;
-            white-space: nowrap;
-            margin: 0;
-            padding: 0;
-            width: 200%;  /* 宽度设置为内容的两倍 */
-            display: flex;
-            justify-content: space-between;
-            animation: scroll 40s linear infinite;
-        }
-        #running-bar ul:hover {
-            animation-play-state: paused;
-        }
-        #running-bar li {
-            display: inline-block;
-            margin-right: 1em;
-        }
-        @keyframes scroll {
-            0% {
-                transform: translateX(0);
-            }
-            100% {
-                transform: translateX(calc(-250px * 7));  /* 250px 是每张图片的宽度，7 是图片的数量 */
-            }
-        }
-	.running-bar-img {
-    		height: 100px;
-    		width: auto;
-	}
-    </style>
-</head>
-<body>
-    <main>
-        <div id="running-bar">
-            <ul>
-                <li><a href="../images/dog1_1.jpg" target="_blank"><img src="../images/dog1_1.jpg" alt="" class="image-class"></a></li>
-                <li><a href="../images/dog1_2.jpg" target="_blank"><img src="../images/dog1_2.jpg" alt="" class="image-class"></a></li>
-                <li><a href="../images/dog2_1.jpg" target="_blank"><img src="../images/dog2_1.jpg" alt="" class="image-class"></a></li>
-                <li><a href="../images/dog2_2.jpg" target="_blank"><img src="../images/dog2_2.jpg" alt="" class="image-class"></a></li>
-                <li><a href="../images/cat1.1.jpg" target="_blank"><img src="../images/cat1.1.jpg" alt="" class="image-class"></a></li>
-                <li><a href="../images/cat1.2.jpg" target="_blank"><img src="../images/cat1.2.jpg" alt="" class="image-class"></a></li>
-            </ul>
-        </div>
+<img src="../images/dog1_1.jpg" width=250 /> <img src="../images/dog1_2.jpg" width=250 /><br>
 
-	<script>
-		var imgList = document.querySelector('#image-list');
-		var firstImg = imgList.querySelector('li:first-child').cloneNode(true);
-		imgList.appendChild(firstImg);
-		
-		var speed = 100;
-		var imgWidth = imgList.querySelector('li:first-child img').clientWidth;
-		var scrollTime = imgWidth / speed * 1000;
-		var scrollPos = 0;
-		var startTime = performance.now();
+<img src="../images/dog2_1.jpg" width=502 /><br>
 
-		function scrollAnimation(currentTime) {
-    			var elapsedTime = (currentTime - startTime) / 1000;
-			scrollPos = (speed * elapsedTime) % (imgWidth * (imgList.childElementCount - 1));
-			imgList.style.transform = 'translateX(' + -scrollPos + 'px)';
-			requestAnimationFrame(scrollAnimation);
-		}
+<img src="../images/dog2_2.jpg" width=502 /><br>
 
-		requestAnimationFrame(scrollAnimation);
-	</script>
-    </main>
-</body>
-</html>
+<img src="../images/cat1.1.jpg" width=250 /> <img src="../images/cat1.2.jpg" width=250 />
 
 -->
