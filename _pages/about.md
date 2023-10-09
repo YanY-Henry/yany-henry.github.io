@@ -13,7 +13,7 @@ I am YAN Yuhang Henry (闫禹杭), a junior undergraduate student at **the Chine
 
 I am currently working on:
 
-1. **Efficient Video Analytics** under the supervision of Prof. Eric Chi Lik LO at CUHK.
+1. **Efficient Video Analytics** under the supervision of Prof. Eric Chi Lik LO at CUHK.  
    About: Algorithm, Computer Vision and Machine Learning.
 
 
