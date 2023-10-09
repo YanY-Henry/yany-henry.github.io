@@ -6,21 +6,6 @@ sitemap: true
 author_profile: true
 ---
 
-* **CUHK Mandarin Debate Team** (Sep. 2021 - present)
-  * Second place in the "Shier Jiao" Cup (12 teams from around Hong Kong), Apr. 2022;
-  * Third place in the "INNO Boyue" Cup (24 teams from around the world), July 2022.
-
-* **MUA Football Team** (Sep. 2022 - present)
-  * Second place in the Hong Kong Mainland Undergraduate Football League (9 teams from around Hong Kong), Apr. 2023.
-
-* **FUJIA Volunteer Teaching Society** (May 2022 — Aug. 2022)
-  * 2022 Quanzhou Volunteer Teaching Project volunteers
-  * During the project, we cared for the children of prison inmates, communicated with them through letters, and spent two weeks in offline classes to teach the knowledge.
-
-## Some Special Friends of Mine
-I do love cute dogs and cats. I've been involved in stray animal protection activities on campus and also have some pets of my own. I bet you'd be interested in seeing my adorable friends!!!
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -56,10 +41,6 @@ I do love cute dogs and cats. I've been involved in stray animal protection acti
             }
         }
     </style>
-    <script>
-
-        
-    </script>
 </head>
 <body>
     <main>
@@ -75,13 +56,25 @@ I do love cute dogs and cats. I've been involved in stray animal protection acti
         </div>
 
 	<script>
-    		var imgList = document.querySelector('#image-list');
-   		imgList.addEventListener('animationiteration', function() {
-        	var firstImg = imgList.querySelector('li:first-child').cloneNode(true);
-        	imgList.appendChild(firstImg);
-        		imgList.removeChild(imgList.querySelector('li:first-child'));
-    		});
-    	</script>
+		var imgList = document.querySelector('#image-list');
+		var firstImg = imgList.querySelector('li:first-child').cloneNode(true);
+		imgList.appendChild(firstImg);
+		
+		var speed = 100;
+		var imgWidth = imgList.querySelector('li:first-child img').clientWidth;
+		var scrollTime = imgWidth / speed * 1000;
+		var scrollPos = 0;
+		var startTime = performance.now();
+
+		function scrollAnimation(currentTime) {
+    			var elapsedTime = (currentTime - startTime) / 1000;
+			scrollPos = (speed * elapsedTime) % (imgWidth * (imgList.childElementCount - 1));
+			imgList.style.transform = 'translateX(' + -scrollPos + 'px)';
+			requestAnimationFrame(scrollAnimation);
+		}
+
+		requestAnimationFrame(scrollAnimation);
+	</script>
     </main>
 </body>
 </html>
