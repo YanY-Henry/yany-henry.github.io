@@ -16,17 +16,26 @@ author_profile: true
             white-space: nowrap;
             margin: 0;
             padding: 0;
+            width: 200%;  /* 宽度设置为内容的两倍 */
+            display: flex;
+            justify-content: space-between;
+            animation: scroll 40s linear infinite;
         }
         #running-bar li {
             display: inline-block;
             margin-right: 1em;
         }
+        @keyframes scroll {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(calc(-250px * 7));  /* 250px 是每张图片的宽度，7 是图片的数量 */
+            }
+        }
     </style>
 </head>
 <body>
-    <header>
-        <h1>Miscellaneous</h1>
-    </header>
     <main>
         <h2>CUHK Mandarin Debate Team (Sep. 2021 - present)</h2>
         <ul>
