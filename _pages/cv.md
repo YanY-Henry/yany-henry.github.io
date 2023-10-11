@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**[Download the PDF Version](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf)**
+[Download the PDF Version](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf)
 
 {% include base_path %} 
 
@@ -17,20 +17,21 @@ redirect_from:
   * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - July. 2025 (expected).
   * Cumulative GPA: **3.715**/4.000.
   * A member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
-  * **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; **Data Analytics Stream** in Computer Science.
-* **Spring Semester Exchange** to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, **[Peking University (PKU)](https://english.pku.edu.cn){: .no-underline-black-link }**, 2022-23.
+  * **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Stream in **General Computer Science**.
+* **Spring Semester Exchange** to [IC Faculty](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2022-23.
+* **Spring Semester Exchange** to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, [Peking University **(PKU)**](https://english.pku.edu.cn){: .no-underline-black-link }, 2022-23.
 * Ranked **top 0.4%** among 110,000 science students in the 2021 National College Entrance Exam.
 
 
 ## Research Experience
 
-* **Efficient Video Analytics** (June 2023 - present)
+* **Efficient Video Analytics** (June 2023 - present)[[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   * Research Assistant to [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) (CUHK).
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
   * Using computer vision models combined with natural language processing models to quickly extract the location information of target people and objects from a large number of videos.
   * The ultimate goal is to provide an accurate and efficient lost-and-found system for the Hong Kong Airport.
 
-* **Traffic Characteristics Analysis of the Network** (May 2023 - present)
+* **Traffic Characteristics Analysis of the Network** (April 2023 - June 2023)
   * Research Assistant to [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) (PKU).
   * Based on the high-performance traffic analysis platform built independently and the core traffic data collected, conducting comprehensive and in-depth traffic feature statistics and analysis from the link, traffic and packet level.
 
@@ -39,6 +40,7 @@ redirect_from:
 
 * Dean’s List (**Top 10%** in Faculty of Engineering), 2021-22;
 * Best Project Award (**Top 5** of 58 Undergraduate Summer Research Internship), 2022-23;
+* Honorable Mention of Mathematical Contest In Modeling (**MCM**), 2022;
 * College Outstanding Student Scholarship (5,000HKD), 2022-23;
 * Wu Yee Sun Student Exchange Scholarships (15,000HKD), 2022-23;
 * Yasumoto International Exchange Scholarship (5,500HKD), 2022-23 & 2023-24;

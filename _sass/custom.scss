@@ -4,3 +4,7 @@
     color: $text-color !important;
     text-decoration: none !important;
   }
+
+.no-underline-black-link:hover {
+    text-decoration: underline !important;
+}
