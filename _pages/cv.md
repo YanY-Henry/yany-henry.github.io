@@ -28,13 +28,24 @@ redirect_from:
 * **Efficient Video Analytics** (June 2023 - present)[[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   * Research Assistant to [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) (CUHK).
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
-  * Using computer vision models combined with natural language processing models to quickly extract the location information of target people and objects from a large number of videos.
-  * The ultimate goal is to provide an accurate and efficient lost-and-found system for the Hong Kong Airport.
+  * The ultimate goal is to design a natural language based lost-and-found system for the Hong Kong Airport.
+  * Worked on accelerating the process of efficiently analysing multiple long videos using deep learning models and used React to build the front-end for the project.
+  * Investigated multiple Zero-Shot Object Detection models as well as Nature Language Processing Models. Evaluateing different model capabilities based on our self-created airport datasets and diverse evaluation criteria.
 
 * **Traffic Characteristics Analysis of the Network** (April 2023 - June 2023)
   * Research Assistant to [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) (PKU).
   * Based on the high-performance traffic analysis platform built independently and the core traffic data collected, conducting comprehensive and in-depth traffic feature statistics and analysis from the link, traffic and packet level.
+  * Learning about TCP/IP protocols and DNS packet rules; Using Peking University's campus network traffic information as a dataset, resolving IP and domain name mapping relationships from pcap files containing only DNS.
+ 
 
+<!--
+## Working Experience
+
+* **AIJobTech** (Oct. 2023 - present)
+  * Participated in the establishment of the tech startup as CTO (Chief Technology Officer).
+  * Hope to use AI technology for resume touch-ups, job matchings, and job search skills learning.
+  * Full-stack development experience.
+-->
 
 ## Honors and Scholarships
 
