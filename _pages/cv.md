@@ -37,7 +37,7 @@ redirect_from:
 * **Traffic Characteristics Analysis of the Network** (April 2023 - June 2023)
   * Research Assistant to [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) ([Institute of Data Science and Enegineering](https://dse.pku.edu.cn){: .no-underline-black-link }@PKU).
   * Based on the high-performance traffic analysis platform built independently and the core traffic data collected, conducting comprehensive and in-depth traffic feature statistics and analysis from the link, traffic and packet level.
-  * Learning about TCP/IP protocols and DNS packet rules; Using Peking University's campus network traffic information as a dataset, resolving IP and domain name mapping relationships from pcap files containing only DNS.
+  * Learned about TCP/IP protocols and DNS packet rules and used Peking University's campus network traffic information as a dataset, resolving IP and domain name mapping relationships from pcap files containing only DNS.
  
 
 <!--
