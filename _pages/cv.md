@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<!--
 [Download the PDF Version](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf)
--->
+
 
 {% include base_path %} 
 
@@ -30,7 +29,7 @@ redirect_from:
 * **Efficient Video Analytics** (June 2023 - present)[[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   * Research Assistant to [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([Centre for Perceptual and Interactive Intelligence](https://www.cpii.hk){: .no-underline-black-link }@CUHK).
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
-  * The ultimate goal is to design a natural language based lost-and-found system for the Hong Kong Airport.
+  * To design a natural language based lost-and-found system for the Hong Kong Airport.
   * Worked on accelerating the process of efficiently analysing multiple long videos using deep learning models and used React to build the front-end for the project.
   * Investigated multiple Zero-Shot Object Detection models as well as Nature Language Processing Models. Evaluateing different model capabilities based on our self-created airport datasets and diverse evaluation criteria.
 
