@@ -21,5 +21,5 @@ Not now.
 **Evaluat~~e~~ing** different model capabilities based on our self-created airport datasets and diverse evaluation criteria.
 
 ###### Misc.
-**~~During the project, we c~~C**ared for the children of prison inmates, communicated with them through letters, and spent two weeks in offline classes to teach the knowledge.
+**~~During the project, we c~~C**ared for the children of prison inmates, communicated with them through letters, and spent two weeks in offline classes to teach the knowledge.  
 **Won * place** (3 times)
