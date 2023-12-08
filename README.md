@@ -23,5 +23,6 @@ programming skills
 
 ###### Misc.
 punctuation *n  
+**~~Completing~~Completed** the 100KM MacLehose Trail in a continuous 37h25min.
 **~~During the project, we c~~C**ared for the children of prison inmates, communicated with them through letters, and spent two weeks in offline classes to teach the knowledge.  
 **Won * place** (3 times)  
