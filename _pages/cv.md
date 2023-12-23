@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
+<!--
 [Download the PDF Version](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf)
+-->
 
 
 {% include base_path %} 
@@ -18,7 +20,7 @@ redirect_from:
   * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - July. 2025 (expected).
   * Cumulative GPA: **3.715**/4.000.
   * A member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
-  * **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Stream in **Data Analytics**; Minor in **Statistics**.
+  * **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Stream in **Data Analytics**.
 * **Spring Semester Exchange** to [IC Faculty](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2023-24.
 * **Spring Semester Exchange** to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, [Peking University **(PKU)**](https://english.pku.edu.cn){: .no-underline-black-link }, 2022-23.
 * Ranked **top 0.4%** among 110,000 science students in the 2021 National College Entrance Exam.
@@ -31,7 +33,7 @@ redirect_from:
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
   * To design a natural language based lost-and-found system for the Hong Kong Airport.
   * Worked on accelerating the process of efficiently analysing multiple long videos using deep learning models and used React to build the front-end for the project.
-  * Investigated multiple Zero-Shot Object Detection models as well as Nature Language Processing Models. Evaluateing different model capabilities based on our self-created airport datasets and diverse evaluation criteria.
+  * Investigated multiple Zero-Shot Object Detection models as well as Nature Language Processing Models. Evaluating different model capabilities based on our self-created airport datasets and diverse evaluation criteria.
 
 * **Traffic Characteristics Analysis of the Network** (April 2023 - June 2023)
   * Research Assistant to [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) ([Institute of Data Science and Enegineering](https://dse.pku.edu.cn){: .no-underline-black-link }@PKU).
