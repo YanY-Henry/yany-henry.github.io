@@ -15,16 +15,10 @@ See more info at https://academicpages.github.io/
 Sometimes when I find some typo or there are some pending achievements to be updated, I'll put them here first. And integrate them into my CV and personal pages in my free time.
 
 ###### About Me
-Add AIJobTech  
+Nothing now  
 
 ###### CV
-**Evaluat~~e~~ing** different model capabilities based on our self-created airport datasets and diverse evaluation criteria.  
-**~~Research~~Project** Experience  
-Add AIJobTech  
-programming skills  
+Nothing now  
 
 ###### Misc.
-punctuation *n  
-**~~Completing~~Completed** the 100KM MacLehose Trail in a continuous 37h25min.  
-**~~During the project, we c~~C**ared for the children of prison inmates, communicated with them through letters, and spent two weeks in offline classes to teach the knowledge.  
-**Won * place** (3 times)  
+Nothing now  
