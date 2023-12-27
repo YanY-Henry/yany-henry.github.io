@@ -16,7 +16,9 @@ I am currently working on:
 1. **Efficient Video Analytics** under the supervision of Prof. Eric Chi Lik LO at CUHK.  
    About: Algorithm, Computer Vision and Machine Learning.
 
-
 <!--
-**Traffic Characteristics Analysis of the Network** under the supervision of Prof. Tong YANG at PKU.
+1. **To be updated**
+   About: TBU.
+2. **To be updated**
+   About: TBU.
 -->
