@@ -32,7 +32,7 @@ redirect_from:
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
   * To design a natural language based lost-and-found system for the Hong Kong Airport.
   * Worked on accelerating the process of efficiently analysing multiple long videos using deep learning models and used React to build the front-end for the project.
-  * Investigated multiple Zero-Shot Object Detection models as well as Nature Language Processing Models. Evaluating different model capabilities based on our self-created airport datasets and diverse evaluation criteria.
+  * Investigated multiple Zero-Shot Object Detection models as well as Nature Language Processing Models; Evaluated different model capabilities based on our self-created airport datasets and diverse evaluation criteria.
 
 * **Traffic Characteristics Analysis of the Network** (April 2023 - June 2023)
   * Research Assistant to [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) ([Institute of Data Science and Enegineering](https://dse.pku.edu.cn){: .no-underline-black-link }@PKU).
@@ -68,5 +68,5 @@ redirect_from:
 
 ## Skills
 * **Language**: English (Fluent), Mandarin (Native) and Cantonese (Intermediate).
-* **Programming**:  C/C++, Java, JavaScript, MATLAB, Python, SQL and Markdown.
+* **Programming**:  C/C++, Java, JavaScript, MATLAB, Python and SQL.
 * **Tools**: LaTeX, Anaconda, Git and Linux.
