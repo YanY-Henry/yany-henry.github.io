@@ -9,7 +9,7 @@ redirect_from:
 
 
 * **Evaluation on the Vulnerability of Current Generative Models** (Jan 2024 - present)
-  * Semester project cooperated with Dr. Daichi Zhang and supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en)([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@EPFL).
+  * Semester project cooperated with [Dr. Daichi Zhang](https://daisy-zhang.github.io/) and supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en)([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@EPFL).
   * The details is to be updated.
 
 
