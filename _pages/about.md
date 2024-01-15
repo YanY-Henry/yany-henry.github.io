@@ -13,7 +13,10 @@ I am YAN Yuhang Henry (闫禹杭), a junior undergraduate student at **The Chine
 
 I am currently working on:
 
-1. **AIJobTech**, a start-up focusing on AI job hunting.  
+1. **Evaluation on the Vulnerability of Current Generative Models** supervised by Prof. Sabine Süsstrunk (@EPFL).  
+  About: Generative models, Data Leakage and Model attacks.
+
+2. **AIJobTech**, a start-up focusing on AI job hunting.  
    About: Full-stack development, Large language models and Recommendation systems.
 
 
