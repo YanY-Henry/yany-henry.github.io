@@ -18,7 +18,7 @@ redirect_from:
 
 * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - July. 2025 (expected)
   * [**Bachelor of Science** in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }; Stream of Data Analytics.
-  * Cumulative GPA: **3.715**/4.000.
+  * Cumulative GPA: **3.757**/4.000.
   * Member of **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
   * Spring Semester Exchange to [IC Faculty](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2023-24.
   * Spring Semester Exchange to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, [Peking University **(PKU)**](https://english.pku.edu.cn){: .no-underline-black-link }, 2022-23.
@@ -26,6 +26,10 @@ redirect_from:
 
 
 ## Research Experience
+
+* **Evaluation on the Vulnerability of Current Generative Models** (Jan 2024 - present)
+  * Semester project cooperated with [Dr. Daichi Zhang](https://daisy-zhang.github.io/) and supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@EPFL).
+  * The details is to be updated.
 
 * **Efficient Video Analytics** (June 2023 - Sep. 2023)[[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   * Research Assistant to [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([Centre for Perceptual and Interactive Intelligence](https://www.cpii.hk){: .no-underline-black-link }@CUHK).
@@ -40,14 +44,13 @@ redirect_from:
   * Learned about TCP/IP protocols and DNS packet rules and used Peking University's campus network traffic information as a dataset, resolving IP and domain name mapping relationships from pcap files containing only DNS.
  
 
-<!--
 ## Working Experience
 
-* **AIJobTech** (Oct. 2023 - present)
-  * Participated in the establishment of the tech startup as CTO (Chief Technology Officer).
-  * Hope to use AI technology for resume touch-ups, job matchings, and job search skills learning.
-  * Full-stack development experience.
--->
+* **CTO & Co-founder, AIJobTech** (Oct. 2023 - present)
+  * Participated in the founding and initial financing of an AI-driven job matching startup aimed at enhancing job search efficiency.
+  * Implemented AI recommendation systems for job matching and leveraged large language models for resume and personal statement optimization, using Vue.js for a cohesive front-end and full-stack development.
+  * Directed the technical team in development and technical details, ensuring efficient and high-quality delivery as the CTO.
+
 
 ## Honors and Scholarships
 
