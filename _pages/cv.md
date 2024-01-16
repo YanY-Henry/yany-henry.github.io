@@ -16,7 +16,7 @@ redirect_from:
 
 ## Education
 
-* **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - July. 2025 (expected)
+* **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - July 2025 (expected)
   * [**Bachelor of Science** in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }; Stream of Data Analytics.
   * Cumulative GPA: **3.757**/4.000.
   * Member of **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
@@ -27,7 +27,7 @@ redirect_from:
 
 ## Research Experience
 
-* **Evaluation on the Vulnerability of Current Generative Models** (Jan 2024 - present)
+* **Evaluation on the Vulnerability of Current Generative Models** (Jan. 2024 - present)
   * Semester project cooperated with [Dr. Daichi Zhang](https://daisy-zhang.github.io/) and supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@EPFL).
   * The details are to be updated.
 
