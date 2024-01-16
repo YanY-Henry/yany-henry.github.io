@@ -29,7 +29,9 @@ redirect_from:
 
 * **Evaluation on the Vulnerability of Current Generative Models** (Jan. 2024 - present)
   * Semester project cooperated with [Dr. Daichi Zhang](https://daisy-zhang.github.io/) and supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@EPFL).
-  * The details are to be updated.
+  * Investigated potential data leakage in generative models due to their access to extensive training datasets and user inputs, assessing the risk of compromised output.
+  * Evaluated and enforced fairness in generated content, preventing model output biases.
+  * Conducted robustness checks against adversarial attacks, validating model resilience by identifying vulnerabilities to deliberate input perturbations aimed at manipulating results.
 
 * **Efficient Video Analytics** (June 2023 - Sep. 2023)[[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   * Research Assistant to [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([Centre for Perceptual and Interactive Intelligence](https://www.cpii.hk){: .no-underline-black-link }@CUHK).
