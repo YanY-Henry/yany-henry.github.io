@@ -44,12 +44,12 @@ Download the [PDF](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf) Ver
   * Learned about TCP/IP protocols and DNS packet rules and used Peking University's campus network traffic information as a dataset, resolving IP and domain name mapping relationships from pcap files containing only DNS.
  
 
-## Working Experience
+## Work Experience
 
 * **CTO & Co-founder, AIJobTech** (Oct. 2023 - present)
-  * Participated in the founding and initial financing of an AI-driven job matching startup aimed at enhancing job search efficiency.
-  * Implemented AI recommendation systems for job matching and leveraged large language models for resume and personal statement optimization, using Vue.js for a cohesive front-end and full-stack development.
-  * Directed the technical team in development and technical details, ensuring efficient and high-quality delivery as the CTO.
+  * Engaged in the launch and early-stage funding of an AI-driven job matching startup.
+  * Implemented AI recommendation systems for job matching and leveraged large language models for resume and personal statement optimization, as well as full-stack development.
+  * Led the technical team in development and technical details to ensure efficient, high-quality delivery as the CTO.
 
 
 ## Honors and Scholarships
