@@ -48,6 +48,7 @@ Download the [PDF](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf) Ver
 
 * **CTO & Co-founder, AIJobTech** (Oct. 2023 - present)
   * Engaged in the launch and early-stage funding of an AI-driven job matching startup.
+      * Joined "[HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }" with the whole team.
   * Implemented AI recommendation systems for job matching and leveraged large language models for resume and personal statement optimization, as well as full-stack development.
   * Led the technical team in development and technical details to ensure efficient, high-quality delivery as the CTO.
 
