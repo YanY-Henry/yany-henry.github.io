@@ -15,10 +15,11 @@ See more info at https://academicpages.github.io/
 Sometimes when I find some typo or there are some pending achievements to be updated, I'll put them here first. And integrate them into my CV and personal pages in my free time.
 
 ###### About Me
-Nothing now  
+Nothing more  
 
 ###### CV
-Nothing now  
+IC Faculty -> IC School  
+Nothing more  
 
 ###### Misc.
-Nothing now  
+Nothing more  
