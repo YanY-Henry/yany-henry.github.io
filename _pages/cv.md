@@ -7,18 +7,17 @@ redirect_from:
   - /resume
 ---
 
-Download the [PDF](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf) Version
+Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_EN.pdf) / [中文](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_ZH.pdf) )
 
 
 {% include base_path %} 
 
 ## Education
 
-* **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - July 2025 (expected)
-  * [**Bachelor of Science** in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }; Stream of Data Analytics.
-  * Cumulative GPA: **3.757**/4.000.
+* **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - Jul. 2025 (expected)
+  * [**Bachelor of Science** in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }; Cumulative GPA: **3.757**/4.000.
   * Member of **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
-  * Spring Semester Exchange to [IC Faculty](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2023-24.
+  * Spring Semester Exchange to [IC School](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2023-24.
   * Spring Semester Exchange to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, [Peking University **(PKU)**](https://english.pku.edu.cn){: .no-underline-black-link }, 2022-23.
 * Ranked **top 0.4%** among 110,000 science students in the 2021 National College Entrance Exam.
 
@@ -31,14 +30,14 @@ Download the [PDF](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf) Ver
   * Evaluated and enforced fairness in generated content, preventing model output biases.
   * Conducted robustness checks against adversarial attacks, validating model resilience by identifying vulnerabilities to deliberate input perturbations aimed at manipulating results.
 
-* **Efficient Video Analytics** (June 2023 - Sep. 2023)[[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
+* **Efficient Video Analytics** (Jun. 2023 - Sep. 2023)[[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   * Research Assistant to [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([Centre for Perceptual and Interactive Intelligence](https://www.cpii.hk){: .no-underline-black-link }@CUHK).
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
   * To design a natural language based lost-and-found system for the Hong Kong Airport.
   * Worked on accelerating the process of efficiently analysing multiple long videos using deep learning models and used React to build the front-end for the project.
   * Investigated multiple Zero-Shot Object Detection models as well as Nature Language Processing Models; Evaluated different model capabilities based on our self-created airport datasets and diverse evaluation criteria.
 
-* **Traffic Characteristics Analysis of the Network** (April 2023 - June 2023)
+* **Traffic Characteristics Analysis of the Network** (Apr. 2023 - Jun. 2023)
   * Research Assistant to [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) ([Institute of Data Science and Enegineering](https://dse.pku.edu.cn){: .no-underline-black-link }@PKU).
   * Based on the high-performance traffic analysis platform built independently and the core traffic data collected, conducting comprehensive and in-depth traffic feature statistics and analysis from the link, traffic and packet level.
   * Learned about TCP/IP protocols and DNS packet rules and used Peking University's campus network traffic information as a dataset, resolving IP and domain name mapping relationships from pcap files containing only DNS.
@@ -48,6 +47,7 @@ Download the [PDF](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf) Ver
 
 * **CTO & Co-founder, AIJobTech** (Oct. 2023 - present)
   * Engaged in the launch and early-stage funding of an AI-driven job matching startup.
+      * Joined "[HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }" with the whole team.
   * Implemented AI recommendation systems for job matching and leveraged large language models for resume and personal statement optimization, as well as full-stack development.
   * Led the technical team in development and technical details to ensure efficient, high-quality delivery as the CTO.
 
@@ -71,5 +71,5 @@ Download the [PDF](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf) Ver
 
 ## Skills
 * **Language**: English (Fluent), Mandarin (Native) and Cantonese (Intermediate).
-* **Programming**:  C/C++, Java, JavaScript, MATLAB, Python and SQL.
-* **Tools**: LaTeX, Anaconda, Git and Linux.
+* **Programming**:  C/C++, Java, JavaScript, MATLAB, Python, Scala and SQL.
+* **Tools**: LaTeX, Anaconda, Git, Linux and Spark.
