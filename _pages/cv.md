@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download the [PDF](https://YanY-Henry.github.io/files/CV_YanYuhangHenry.pdf) Version
+Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_EN.pdf) / [中文](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_ZH.pdf) )
 
 
 {% include base_path %} 
