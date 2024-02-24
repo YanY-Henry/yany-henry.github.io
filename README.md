@@ -1,3 +1,7 @@
+# To View My Website
+
+You can use this link: `https://yany-henry.github.io/`, which will lead you to "[Welcome to Yuhang's Homepage](https://yany-henry.github.io/)".
+
 # Instructions
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
