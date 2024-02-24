@@ -18,7 +18,6 @@ Sometimes when I find some typo or there are some pending achievements to be upd
 Nothing more  
 
 ###### CV
-IC Faculty -> IC School  
 Nothing more  
 
 ###### Misc.
