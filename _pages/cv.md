@@ -15,8 +15,7 @@ Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYu
 ## Education
 
 * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - July 2025 (expected)
-  * [**Bachelor of Science** in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }; Stream of Data Analytics.
-  * Cumulative GPA: **3.757**/4.000.
+  * [**Bachelor of Science** in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }; Cumulative GPA: **3.757**/4.000.
   * Member of **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
   * Spring Semester Exchange to [IC School](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2023-24.
   * Spring Semester Exchange to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, [Peking University **(PKU)**](https://english.pku.edu.cn){: .no-underline-black-link }, 2022-23.
