@@ -2,7 +2,7 @@
 
 You can use this link: `https://yany-henry.github.io/`, which will lead you to "[Welcome to Yuhang's Homepage](https://yany-henry.github.io/)".
 
-# Instructions
+## Instructions
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -14,7 +14,7 @@ You can use this link: `https://yany-henry.github.io/`, which will lead you to "
 
 See more info at https://academicpages.github.io/
 
-# TODO
+## TODO
 
 Sometimes when I find some typo or there are some pending achievements to be updated, I'll put them here first. And integrate them into my CV and personal pages in my free time.
 
