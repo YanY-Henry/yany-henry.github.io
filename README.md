@@ -22,7 +22,7 @@ Sometimes when I find some typo or there are some pending achievements to be upd
 Nothing more  
 
 ###### CV
-AIJobTech -> AIJobTech Limited
+AIJobTech -> AIJobTech Limited  
 Nothing more  
 
 ###### Misc.
