@@ -16,7 +16,7 @@ See more info at https://academicpages.github.io/
 
 ## TODO
 
-Sometimes when I find some typo or there are some pending achievements to be updated, I'll put them here first. And integrate them into my CV and personal pages in my free time.
+Sometimes, when I come across typos or have pending achievements to update, I like to refine them here before integrating them into my CV and personal pages during my free time.
 
 ###### About Me
 Nothing more  
