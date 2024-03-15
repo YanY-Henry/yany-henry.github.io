@@ -23,7 +23,7 @@ Nothing more
 
 ###### CV
 AIJobTech -> AIJobTech Limited  
-ex scho += 3500HKD
+ex scho += 3500HKD  
 Nothing more  
 
 ###### Misc.
