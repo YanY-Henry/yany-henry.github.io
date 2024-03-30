@@ -2,7 +2,7 @@
 
 You can use this link: `https://yany-henry.github.io/`, which will lead you to "[Welcome to Yuhang's Homepage](https://yany-henry.github.io/)".
 
-## Instructions
+## To Build Such a Website
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -19,11 +19,13 @@ See more info at https://academicpages.github.io/
 Sometimes, when I come across typos or have pending achievements to update, I like to refine them here before integrating them into my CV and personal pages during my free time.
 
 ###### About Me
+FYP  
 Nothing more  
 
 ###### CV
+FYP  
 AIJobTech -> AIJobTech Limited  
-ex scho += 3500HKD  
+exchange scholarship += 3500HKD  
 Nothing more  
 
 ###### Misc.
