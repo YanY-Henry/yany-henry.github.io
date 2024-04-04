@@ -31,14 +31,14 @@ Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYu
   * Conducted robustness checks against adversarial attacks, validating model resilience by identifying vulnerabilities to deliberate input perturbations aimed at manipulating results.
 
 * **Efficient Video Analytics** (Jun. 2023 - Sep. 2023)[[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
-  * Research Assistant to [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([Centre for Perceptual and Interactive Intelligence](https://www.cpii.hk){: .no-underline-black-link }@CUHK).
+  * Research Assistant to [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([CPII](https://www.cpii.hk){: .no-underline-black-link }@CUHK).
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
   * To design a natural language based lost-and-found system for the Hong Kong Airport.
   * Worked on accelerating the process of efficiently analysing multiple long videos using deep learning models and used React to build the front-end for the project.
   * Investigated multiple Zero-Shot Object Detection models as well as Nature Language Processing Models; Evaluated different model capabilities based on our self-created airport datasets and diverse evaluation criteria.
 
 * **Traffic Characteristics Analysis of the Network** (Apr. 2023 - Jun. 2023)
-  * Research Assistant to [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) ([Institute of Data Science and Enegineering](https://dse.pku.edu.cn){: .no-underline-black-link }@PKU).
+  * Research Assistant to [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) ([DSE](https://dse.pku.edu.cn){: .no-underline-black-link }@PKU).
   * Based on the high-performance traffic analysis platform built independently and the core traffic data collected, conducting comprehensive and in-depth traffic feature statistics and analysis from the link, traffic and packet level.
   * Learned about TCP/IP protocols and DNS packet rules and used Peking University's campus network traffic information as a dataset, resolving IP and domain name mapping relationships from pcap files containing only DNS.
  
@@ -58,7 +58,7 @@ Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYu
 * Best Project Award (**Top 5** of 58 Undergraduate Summer Research Internship), 2022-23;
 * Honorable Mention of Mathematical Contest In Modeling (**MCM**), 2022;
 * College Outstanding Student Scholarship (10,000HKD), 2022-23 & 2023-24;
-* Multiple Exchange Scholarship (32,400HKD), 2022-23 & 2023-24;
+* Multiple Exchange Scholarship (35,900HKD), 2022-23 & 2023-24;
 * S.H. Ho College Matriculation on Scholarships for Academic Excellence (5,000HKD), 2021-22;
 * Second Prize in National Physics Competition for Senior High, 2019-20;
 * Second Prize in National Mathematics Competition for Senior High, 2020-21.
