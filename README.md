@@ -24,8 +24,6 @@ Nothing more
 
 ###### CV
 FYP  
-AIJobTech -> AIJobTech Limited  
-exchange scholarship += 3500HKD  
 Nothing more  
 
 ###### Misc.
