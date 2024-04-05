@@ -58,7 +58,7 @@ Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYu
 * Best Project Award (**Top 5** of 58 Undergraduate Summer Research Internship), 2022-23;
 * Honorable Mention of Mathematical Contest In Modeling (**MCM**), 2022;
 * College Outstanding Student Scholarship (10,000HKD), 2022-23 & 2023-24;
-* Multiple Exchange Scholarship (32,400HKD), 2022-23 & 2023-24;
+* Multiple Exchange Scholarship (35,900HKD), 2022-23 & 2023-24;
 * S.H. Ho College Matriculation on Scholarships for Academic Excellence (5,000HKD), 2021-22;
 * Second Prize in National Physics Competition for Senior High, 2019-20;
 * Second Prize in National Mathematics Competition for Senior High, 2020-21.
