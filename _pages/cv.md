@@ -25,6 +25,10 @@ Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYu
 ## Research Experience
 
 * **Evaluation on the Vulnerability of Current Generative Models** (Jan. 2024 - present)
+  * Research project cooperated with [Dr. Jen-tse Huang]([https://daisy-zhang.github.io/](https://penguinnnnn.github.io)) and supervised by [Prof. Michael Rung-Tsong Lyu](https://www.cse.cuhk.edu.hk/lyu/home) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@CUHK).
+  * More details are to be updated.
+
+* **Evaluation on the Vulnerability of Current Generative Models** (Jan. 2024 - present)
   * Semester project cooperated with [Dr. Daichi Zhang](https://daisy-zhang.github.io/) and supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@EPFL).
   * Investigated potential data leakage in generative models due to their access to extensive training datasets and user inputs, assessing the risk of compromised output.
   * Evaluated and enforced fairness in generated content, preventing model output biases.
