@@ -25,7 +25,7 @@ Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYu
 ## Research Experience
 
 * **Fact or Fairness? Identifying Over-Balanced Issues** (Apr. 2024 - present)
-  * Research project cooperated with [Dr. Jen-tse Huang](https://penguinnnnn.github.io)) and supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@CUHK).
+  * Research project cooperated with [Dr. Jen-tse Huang](https://penguinnnnn.github.io) and supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@CUHK).
   * More details are to be updated.
 
 * **Evaluation on the Vulnerability of Current Generative Models** (Jan. 2024 - present)
