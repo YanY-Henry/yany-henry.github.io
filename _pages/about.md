@@ -15,7 +15,7 @@ I am currently working on:
 
 1. **Evaluation on the Vulnerability of Current Generative Models** supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en){: .no-underline-black-link }.  
   About: Generative models, Data leakage and Model attacks.
-1. **Fact or Fairness? Identifying Over-Balanced Issues** supervised by [Prof. Michael Rung-Tsong Lyu](https://www.cse.cuhk.edu.hk/lyu/home){: .no-underline-black-link }.  
+1. **Fact or Fairness? Identifying Over-Balanced Issues** supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home){: .no-underline-black-link }.  
   About: Generative models and Social bias.
 1. **AIJobTech**, a start-up focusing on AI job hunting.  
    About: Full-stack development, Large language models and Recommendation systems.
