@@ -1,6 +1,6 @@
 ---
 layout: archive
-published: true
+published: false
 title: "Work Experience"
 permalink: /work/
 author_profile: true
