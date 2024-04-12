@@ -9,7 +9,7 @@ redirect_from:
 
 ## Startup
 
-* **AIJobTech**  
+* **AIJobTech Limited**  
   *CTO & Co-founder, Hong Kong SAR (Oct. 2023 - present)*
   * **AI-Driven Job Matching Startup Launch and Funding**: Implemented AI recommendation systems algorithm to facilitate precise job matching for business positions.
       * Joined "[HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }" with the whole team.
