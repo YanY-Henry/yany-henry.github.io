@@ -23,6 +23,7 @@ Format (location/time) for all
 Nothing more  
 
 ###### Education
+add something  
 Nothing more  
 
 ###### Research
@@ -32,4 +33,5 @@ Nothing more
 Nothing more  
 
 ###### Misc.
+FUJIA links  
 Nothing more  
