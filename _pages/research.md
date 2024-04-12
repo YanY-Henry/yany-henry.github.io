@@ -9,8 +9,14 @@ redirect_from:
 
 ## Projects
 
-* **Fact or Fairness? Identifying Over-Balanced Issues** (Apr. 2024 - present)  
-  *Research project cooperated with [Dr. Jen-tse Huang](https://penguinnnnn.github.io) and supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }, Hong Kong SAR, China)*
+* **Fact or Fairness? Identifying Over-Balanced Issues**
+  <div style="text-align: right;">
+    Apr. 2024 - present  
+  </div>
+  *Research project cooperated with [Dr. Jen-tse Huang](https://penguinnnnn.github.io) and supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
+  <div style="text-align: right;">
+    Hong Kong SAR, China
+  </div>
   * More details are to be updated.
 
 * **Evaluation on the Vulnerability of Current Generative Models** (Jan. 2024 - present)  
