@@ -34,7 +34,7 @@ redirect_from:
 
 * **Traffic Characteristics Analysis of the Network**
   <span style="float: right;">Apr. 2023 - Jun. 2023</span>  
-  *Supervisor: [Prof. Tong YANG](https://cs.pku.edu.cn/info/1176/3703.htm) ([DSE](https://dse.pku.edu.cn){: .no-underline-black-link }@[PKU](https://english.pku.edu.cn){: .no-underline-black-link })*
+  *Supervisor: [Prof. Tong YANG](https://yangtonghome.github.io) ([DSE](https://dse.pku.edu.cn){: .no-underline-black-link }@[PKU](https://english.pku.edu.cn){: .no-underline-black-link })*
   <span style="float: right;">Beijing, China</span>
   * **Traffic Characteristics Analysis and Platform Development**: Leveraged a high-performance traffic analysis platform built from scratch. Conducted detailed statistics and analysis of network traffic characteristics at the link, traffic, and packet levels using core traffic data to recognize campus network user preference.
   * **TCP/IP and DNS Packet Analysis for Data Mapping**: Utilized campus network traffic data to extract and map IP addresses to domain names from pcap files, focusing on DNS packet structures. This task involved detailed examination and application of TCP/IP protocols to analyze network traffic patterns.
