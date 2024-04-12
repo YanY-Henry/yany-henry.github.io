@@ -1,16 +1,15 @@
 ---
 layout: archive
 title: "Education"
-permalink: /cv/
+permalink: /education/
 author_profile: true
 redirect_from:
-  - /resume
+
 ---
 
-Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_EN.pdf) / [中文](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_ZH.pdf) )
-
-
 {% include base_path %} 
+
+## Background
 
 * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - Jul. 2025 (expected)
   * [**Bachelor of Science** in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }; Cumulative GPA: **3.757**/4.000 (Top 10%).
