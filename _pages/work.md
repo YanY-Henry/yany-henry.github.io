@@ -7,6 +7,7 @@ author_profile: true
 redirect_from:
 ---
 
+# Startup
 
 * **CTO & Co-founder, AIJobTech** (Oct. 2023 - present)
   * **AI-Driven Job Matching Startup Launch and Funding**: Implemented AI recommendation systems algorithm to facilitate precise job matching for business positions.
