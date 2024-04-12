@@ -3,17 +3,17 @@ main:
   - title: "About me"
     url: /../
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #  url: /cv/
 
-  # - title: "Education"
-  #   url: /Education/
+  - title: "Education"
+    url: /Education/
 
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
 
-  # - title: "Work"
-  #   url: /work/    
+  - title: "Work"
+    url: /work/    
 
   - title: "Misc."
     url: /misc/
