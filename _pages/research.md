@@ -9,13 +9,13 @@ redirect_from:
 
 ## Projects
 
-* **Fact or Fairness? Identifying Over-Balanced Issues**
+* **Fact or Fairness? Identifying Over-Balanced Issues**  
   <span style="float: right;">
     Apr. 2024 - present  
   </span>
-  *Research project cooperated with [Dr. Jen-tse Huang](https://penguinnnnn.github.io) and supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
+  *Research project cooperated with [Dr. Jen-tse Huang](https://penguinnnnn.github.io) and supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*  
   <span style="float: right;">
-    Hong Kong SAR, China
+    Hong Kong SAR, China  
   </span>
   * More details are to be updated.
 
