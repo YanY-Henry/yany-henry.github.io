@@ -19,17 +19,19 @@ See more info at https://academicpages.github.io/
 Sometimes, when I come across typos or have pending achievements to update, I like to refine them here before integrating them into my CV and personal pages during my free time.
 
 ###### About Me
-Format (location/time) for all  
 Nothing more  
 
 ###### Education
 add something  
+Format (location/time/organization)  
 Nothing more  
 
 ###### Research
+Simplify
 Nothing more  
 
 ###### Work
+Simplify
 Nothing more  
 
 ###### Misc.
