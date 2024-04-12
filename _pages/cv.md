@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,8 +12,6 @@ Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYu
 
 {% include base_path %} 
 
-## Education
-
 * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**, Sep. 2021 - Jul. 2025 (expected)
   * [**Bachelor of Science** in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }; Cumulative GPA: **3.757**/4.000 (Top 10%).
   * Member of **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
@@ -21,7 +19,7 @@ Download the PDF Version ( [English](https://YanY-Henry.github.io/files/CV_YanYu
   * Spring Semester Exchange to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, [Peking University **(PKU)**](https://english.pku.edu.cn){: .no-underline-black-link }, 2022-23.
 * Ranked **top 0.4%** among 110,000 science students in the 2021 National College Entrance Exam.
 
-
+<!--
 ## Research Experience
 
 * **Fact or Fairness? Identifying Over-Balanced Issues** (Apr. 2024 - present)
@@ -56,6 +54,7 @@ preferences in the campus network. Utilized C++ to parse DNS-containing pcap fil
       * Joined "[HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }" with the whole team.
   * **Resume Optimization with Large Language Models**: Led the deployment of large language models to polish resumes and personal statements, crafting a full-stack platform that elevates job search success and user satisfaction.
   * **Technical Leadership in Product Development**: Led the technical team in developing a business-focused and AI-powered job matching platform, integrating innovative tech to enhance product quality and market alignment.
+-->
 
 
 ## Honors and Scholarships
