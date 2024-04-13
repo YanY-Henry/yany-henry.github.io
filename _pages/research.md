@@ -11,7 +11,7 @@ redirect_from:
 
 * **Fact or Fairness? Identifying Over-Balanced Issues**
   <span style="float: right;">Apr. 2024 - present</span>  
-  *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
+  *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR, China</span>
   * More details are to be updated.
 
