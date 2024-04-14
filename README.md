@@ -19,13 +19,22 @@ See more info at https://academicpages.github.io/
 Sometimes, when I come across typos or have pending achievements to update, I like to refine them here before integrating them into my CV and personal pages during my free time.
 
 ###### About Me
-Summer Research & FYP  
 Nothing more  
 
-###### CV
-Summer Research & FYP  
+###### Education
+add something  
+Format (location/time/organization)  
+English(Proficient)  
+scholarship order  
+Nothing more  
+
+###### Research
+Simplify  
+Nothing more  
+
+###### Work
+Simplify  
 Nothing more  
 
 ###### Misc.
-Societies and Organisations + Volunteer Services  
 Nothing more  

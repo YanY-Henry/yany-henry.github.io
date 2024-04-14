@@ -51,7 +51,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : google491706b25e97ea09.html
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -85,7 +85,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "\"That I exist is a perpetual surprise which is life.\" - Rabindranath Tagore" 
   location         : "Hong Kong SAR, China"
-  employer         :
+  employer         :  # "The Chinese University of Hong Kong"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "yanyuhang2002@link.cuhk.edu.hk"
