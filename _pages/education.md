@@ -22,14 +22,14 @@ redirect_from:
 * Ranked **top 0.4%** among 110,000 science students in the 2021 [National College Entrance Exam](https://en.wikipedia.org/wiki/Gaokao){: .no-underline-black-link }.
 
 
-### Skills
+## Skills
 
 * **Language**: English (Fluent), Mandarin (Native) and Cantonese (Intermediate).
 * **Programming**:  C/C++, Java, JavaScript, MATLAB, Python, Scala and SQL.
 * **Tools**: LaTeX, Anaconda, Git, Linux and Spark.
 
 
-### Honors and Scholarships
+## Honors and Scholarships
 
 * Dean’s List (**Top 10%** in Faculty of Engineering), 2021-22;
 * Best Project Award (**Top 5** of 58 Undergraduate Summer Research Internship), 2022-23;
