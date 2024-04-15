@@ -14,6 +14,7 @@ redirect_from:
 * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**
   <span style="float: right;">Sep. 2021 - Jul. 2025 (expected)</span>  
   *[B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }*
+  <span style="float: right;">Hong Kong SAR, China</span>  
   * Cumulative GPA: **3.757**/4.000 (Top 10%).
   * Member of **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
   * **Spring Semester Exchange** to [IC School](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2023-24.
@@ -21,14 +22,14 @@ redirect_from:
 * Ranked **top 0.4%** among 110,000 science students in the 2021 [National College Entrance Exam](https://en.wikipedia.org/wiki/Gaokao){: .no-underline-black-link }.
 
 
-## Skills
+### Skills
 
 * **Language**: English (Fluent), Mandarin (Native) and Cantonese (Intermediate).
 * **Programming**:  C/C++, Java, JavaScript, MATLAB, Python, Scala and SQL.
 * **Tools**: LaTeX, Anaconda, Git, Linux and Spark.
 
 
-## Honors and Scholarships
+### Honors and Scholarships
 
 * Dean’s List (**Top 10%** in Faculty of Engineering), 2021-22;
 * Best Project Award (**Top 5** of 58 Undergraduate Summer Research Internship), 2022-23;
