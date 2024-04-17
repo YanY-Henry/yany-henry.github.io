@@ -24,6 +24,7 @@ Nothing more
 ###### Education
 add something  
 Format (location/time/organization)  
+English(Proficient)  
 Nothing more  
 
 ###### Research
@@ -35,5 +36,4 @@ Simplify
 Nothing more  
 
 ###### Misc.
-FUJIA links  
 Nothing more  
