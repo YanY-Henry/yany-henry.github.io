@@ -23,7 +23,7 @@ redirect_from:
   * **Advanced Alignment Circumventing Techniques**: Utilized reinforcement learning and greedy search to identify alternatives to sensitive words within the latent space to circumvent the alignment of the LLMs. These techniques circumvent traditional alignment mechanisms, exposing critical security vulnerabilities within LLMs.
   * **Attention Diversion Techniques for LLMs**: Designed an array of intricate input prompts and conducted extensive experiments with potentially harmful statements. These efforts effectively diverted LLM attention, facilitating precise identification of weaknesses and enabling targeted attack strategies.
 
-* **Efficient Video Analytics** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
+* **Efficient Video Analytics** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)][[GitHub](https://github.com/YanY-Henry/Efficient-Video-Analytics/tree/main)]
   <span style="float: right;">Jun. 2023 - Sep. 2023</span>  
   *Supervisor: [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([CPII](https://www.cpii.hk){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR, China</span>
