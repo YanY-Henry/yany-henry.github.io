@@ -29,11 +29,11 @@ scholarship order
 Nothing more  
 
 ###### Research
-Simplify
+Simplify  
 Nothing more  
 
 ###### Work
-Simplify
+Simplify  
 Nothing more  
 
 ###### Misc.
