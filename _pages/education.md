@@ -30,7 +30,7 @@ redirect_from:
 
 
 ## Honors and Scholarships
-* Best Project Award (**Top 5** of 58 [Undergraduate Summer Research Internship](https://www.erg.cuhk.edu.hk/erg/SummerResearchInternship)){: .no-underline-black-link }<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2023*</span>  
+* Best Project Award (**Top 5** of 58 [Undergraduate Summer Research Internship](https://www.erg.cuhk.edu.hk/erg/SummerResearchInternship){: .no-underline-black-link })<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2023*</span>  
 * Outstanding Student Scholarship (10,000HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2023 & 2024*</span>  
 * Multiple Exchange Scholarship (35,900HKD)<span style="float: right;">*[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }, 2023 & 2024*</span>
 * Dean’s List (**Top 10%**)<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2022*</span>  
