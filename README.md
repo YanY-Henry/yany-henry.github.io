@@ -38,5 +38,5 @@ Simplify
 Nothing more  
 
 ###### Misc.
-First Runner-up
+$1^{st}$ Runner-up  
 Nothing more  
