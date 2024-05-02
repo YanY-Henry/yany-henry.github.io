@@ -33,7 +33,7 @@ Nothing more
 
 ###### Work
 Simplify  
-cv - 联合创始人  
+cv - 联合创始人 & CTO  
 Nothing more  
 
 ###### Misc.
