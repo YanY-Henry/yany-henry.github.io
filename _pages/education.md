@@ -37,8 +37,8 @@ redirect_from:
 * College Outstanding Student Scholarship (10,000HKD), 2022-23 & 2023-24;
 * Multiple Exchange Scholarship (35,900HKD), 2022-23 & 2023-24;
 * S.H. Ho College Matriculation on Scholarships for Academic Excellence (5,000HKD), 2021-22;
-* $2^{nd}$ Prize in National Physics Competition for Senior High, 2019-20;
-* $2^{nd}$ Prize in National Mathematics Competition for Senior High, 2020-21.
+* 2<sup>nd</sup> Prize in National Physics Competition for Senior High, 2019-20;
+* 2<sup>nd</sup> Prize in National Mathematics Competition for Senior High, 2020-21.
 
 
 ## Teaching Assistant
