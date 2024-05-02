@@ -22,10 +22,9 @@ Sometimes, when I come across typos or have pending achievements to update, I li
 Nothing more  
 
 ###### Education
-add something  
 Format (location/time/organization)  
-English(Proficient)  
-Scala  
+cv - English(Proficient)  
+cv - Scala  
 Nothing more  
 
 ###### Research
@@ -34,9 +33,8 @@ Nothing more
 
 ###### Work
 Simplify  
-联合创始人  
+cv - 联合创始人  
 Nothing more  
 
 ###### Misc.
-$1^{st}$ Runner-up  
 Nothing more  
