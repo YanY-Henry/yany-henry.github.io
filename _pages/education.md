@@ -30,14 +30,14 @@ redirect_from:
 
 
 ## Honors and Scholarships
-* Best Project Award (**Top 5** of 58 Undergraduate Summer Research Internship)<span style="float: right;">*Fac. of Engineering, 2023*</span>  
-* College Outstanding Student Scholarship (10,000HKD)<span style="float: right;">*S.H. Ho College, 2023 & 2024*</span>  
-* Multiple Exchange Scholarship (35,900HKD)<span style="float: right;">*CUHK, 2023 & 2024*</span>
-* Dean’s List (**Top 10%**)<span style="float: right;">*Fac. of Engineering, 2022*</span>  
-* Honorable Mention of Mathematical Contest In Modeling (**MCM**)<span style="float: right;">*COMAP, 2022*</span>  
-* Matriculation on Scholarships for Academic Excellence (5,000HKD)<span style="float: right;">*S.H. Ho College, 2021*</span>
-* 2<sup>nd</sup> Prize in National Mathematics Competition for Senior High<span style="float: right;">*CMS, 2020*</span>  
-* 2<sup>nd</sup> Prize in National Physics Competition for Senior High<span style="float: right;">*CPS, 2019*</span>  
+* Best Project Award (**Top 5** of 58 [Undergraduate Summer Research Internship](https://www.erg.cuhk.edu.hk/erg/SummerResearchInternship){: .no-underline-black-link }<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2023*</span>  
+* Outstanding Student Scholarship (10,000HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2023 & 2024*</span>  
+* Multiple Exchange Scholarship (35,900HKD)<span style="float: right;">*[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }, 2023 & 2024*</span>
+* Dean’s List (**Top 10%**)<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2022*</span>  
+* Honorable Mention of [Mathematical Contest In Modeling (**MCM**)](https://www.comap.com/contests/mcm-icm){: .no-underline-black-link }<span style="float: right;">*[COMAP](https://www.comap.com){: .no-underline-black-link }, 2022*</span>  
+* Matriculation on Scholarships for Academic Excellence (5,000HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2021*</span>
+* 2<sup>nd</sup> Prize in National Mathematics Competition for Senior High<span style="float: right;">*[CMS](https://www.cms.org.cn/en/Home/about/about.html){: .no-underline-black-link }, 2020*</span>  
+* 2<sup>nd</sup> Prize in National Physics Competition for Senior High<span style="float: right;">*[CPS](http://cps-old.t2.dyuntech.com/English.htm){: .no-underline-black-link }, 2019*</span>  
 
 
 ## Teaching Assistant
