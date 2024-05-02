@@ -25,7 +25,7 @@ Nothing more
 add something  
 Format (location/time/organization)  
 English(Proficient)  
-scholarship order  
+Scala  
 Nothing more  
 
 ###### Research
