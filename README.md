@@ -34,6 +34,7 @@ Nothing more
 
 ###### Work
 Simplify  
+联合创始人  
 Nothing more  
 
 ###### Misc.
