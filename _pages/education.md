@@ -30,15 +30,14 @@ redirect_from:
 
 
 ## Honors and Scholarships
-
-* Dean’s List (**Top 10%** in Faculty of Engineering), 2021-22;
-* Best Project Award (**Top 5** of 58 Undergraduate Summer Research Internship), 2022-23;
-* Honorable Mention of Mathematical Contest In Modeling (**MCM**), 2022;
-* College Outstanding Student Scholarship (10,000HKD), 2022-23 & 2023-24;
-* Multiple Exchange Scholarship (35,900HKD), 2022-23 & 2023-24;
-* S.H. Ho College Matriculation on Scholarships for Academic Excellence (5,000HKD), 2021-22;
-* 2<sup>nd</sup> Prize in National Physics Competition for Senior High, 2019-20;
-* 2<sup>nd</sup> Prize in National Mathematics Competition for Senior High, 2020-21.
+* Best Project Award (**Top 5** of 58 Undergraduate Summer Research Internship)<span style="float: right;">*Fac. of Engineering, 2023*</span>  
+* College Outstanding Student Scholarship (10,000HKD)<span style="float: right;">*S.H. Ho College, 2023 & 2024*</span>  
+* Multiple Exchange Scholarship (35,900HKD)<span style="float: right;">*CUHK, 2023 & 2024*</span>
+* Dean’s List (**Top 10%** in Faculty of Engineering)<span style="float: right;">*Fac. of Eng., 2022*</span>  
+* * Honorable Mention of Mathematical Contest In Modeling (**MCM**)<span style="float: right;">*2022*</span>  
+* S.H. Ho College Matriculation on Scholarships for Academic Excellence (5,000HKD)<span style="float: right;">*S.H. Ho College, 2021*</span>
+* 2<sup>nd</sup> Prize in National Mathematics Competition for Senior High<span style="float: right;">*CMS, 2020-21*</span>  
+* 2<sup>nd</sup> Prize in National Physics Competition for Senior High<span style="float: right;">*CPS, 2019-20*</span>  
 
 
 ## Teaching Assistant
