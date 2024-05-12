@@ -33,7 +33,8 @@ Nothing more
 
 ###### Work
 Simplify  
-cv - 联合创始人 & CTO  
+cv/linkedin: 爱莫科技
+cv - AIJT: 联合创始人 & CTO  
 Nothing more  
 
 ###### Misc.
