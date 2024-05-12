@@ -33,8 +33,9 @@ Nothing more
 
 ###### Work
 Simplify  
-cv/linkedin: 爱莫科技
-cv - AIJT: 联合创始人 & CTO  
+Internship
+cv/linkedin - AiMall爱莫科技: 算法实习生 June, 2024  
+cv/linkedin - AIJT: 联合创始人 & CTO  
 Nothing more  
 
 ###### Misc.
