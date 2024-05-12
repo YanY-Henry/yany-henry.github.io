@@ -23,7 +23,6 @@ AiMall
 Nothing more  
 
 ###### Education
-Format (location/time/organization)  
 cv - English(Proficient)  
 cv - Scala  
 Nothing more  
