@@ -24,8 +24,8 @@ redirect_from:
 
 ## Skills
 
-* **Language**: English (Fluent), Mandarin (Native) and Cantonese (Intermediate).
-* **Programming**:  C/C++, Java, JavaScript, MATLAB, Python{PyTorch, TensorFlow}, Scala and SQL.
+* **Language**: English (Proficient), Mandarin (Native) and Cantonese (Intermediate).
+* **Programming**:  C/C++, Java, JavaScript, MATLAB, Python{Flask, PyTorch, TensorFlow}, Scala and SQL.
 * **Tools**: LaTeX, Anaconda, Git, Linux and Spark.
 
 
