@@ -23,8 +23,6 @@ AiMall
 Nothing more  
 
 ###### Education
-cv - English(Proficient)  
-cv - Scala  
 Nothing more  
 
 ###### Research
