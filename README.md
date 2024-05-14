@@ -20,6 +20,7 @@ Sometimes, when I come across typos or have pending achievements to update, I li
 
 ###### About Me
 AiMall  
+linkedin: final year
 Nothing more  
 
 ###### Education
@@ -31,8 +32,8 @@ Nothing more
 
 ###### Work
 Simplify  
-linkedin - AiMall Tech. Co., Ltd爱莫科技: 算法实习生Machine Learning Engineer - June, 2024  
-linkedin - AIJT: 联合创始人 & CTO  
+linkedin: AiMall爱莫科技 - Machine Learning Engineer - June, 2024  
+linkedin: AIJobTech Limited - Co-founder & CTO - Oct, 2023  
 Nothing more  
 
 ###### Misc.
