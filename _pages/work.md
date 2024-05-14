@@ -7,11 +7,19 @@ author_profile: true
 redirect_from:
 ---
 
+## Internship
+
+* [**AiMall Tech. Co., Ltd**](https://www.mall-ai.com)
+  <span style="float: right;">Jun. 2024 - Aug. 2024 (expected)</span>  
+  *Machine Learning Engineer*
+  <span style="float: right;">Shenzhen, China</span>
+  * More details are to be updated.
+
 ## Startup
 
 * **AIJobTech Limited**
   <span style="float: right;">Oct. 2023 - present</span>  
-  *CTO & Co-founder*
+  *Co-founder & CTO*
   <span style="float: right;">Hong Kong SAR, China</span>
   * **AI-Driven Job Matching Startup Launch and Funding**: Implemented AI recommendation systems algorithm to facilitate precise job matching for business positions.
       * Joined "[HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }" with the whole team.
