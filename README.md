@@ -31,9 +31,8 @@ Nothing more
 
 ###### Work
 Simplify  
-Internship
-cv/linkedin - AiMall Tech. Co., Ltd爱莫科技: 算法实习生Machine Learning Engineer - June, 2024  
-cv/linkedin - AIJT: 联合创始人 & CTO  
+linkedin - AiMall Tech. Co., Ltd爱莫科技: 算法实习生Machine Learning Engineer - June, 2024  
+linkedin - AIJT: 联合创始人 & CTO  
 Nothing more  
 
 ###### Misc.
