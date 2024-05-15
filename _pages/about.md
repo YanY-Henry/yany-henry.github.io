@@ -19,7 +19,7 @@ Download my CV here 👉 ( [English](https://YanY-Henry.github.io/files/CV_YanYu
 ## Current Work
 
 1. **Evaluation on the Vulnerability of Current Generative Models** supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en){: .no-underline-black-link }.  
-  About: Generative models, Model attacks and Biased Results.
+  About: Generative models, Model attacks and Biased results.
 1. **Fact or Fairness? Identifying Over-Balanced Issues** supervised by [Prof. Michael R. LYU](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/){: .no-underline-black-link }.  
   About: Generative models and Social bias.
 1. **AIJobTech**, a start-up focusing on AI job hunting.  
