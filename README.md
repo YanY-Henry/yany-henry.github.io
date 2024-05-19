@@ -19,12 +19,11 @@ See more info at https://academicpages.github.io/
 Sometimes, when I come across typos or have pending achievements to update, I like to refine them here before integrating them into my CV and personal pages during my free time.
 
 ###### About Me
+AiMall  
+linkedin: final year  
 Nothing more  
 
 ###### Education
-Format (location/time/organization)  
-cv - English(Proficient)  
-cv - Scala  
 Nothing more  
 
 ###### Research
@@ -33,7 +32,8 @@ Nothing more
 
 ###### Work
 Simplify  
-cv - 联合创始人 & CTO  
+linkedin: AiMall爱莫科技 - Machine Learning Engineer - June, 2024  
+linkedin: AIJobTech Limited - Co-founder & CTO - Oct, 2023  
 Nothing more  
 
 ###### Misc.
