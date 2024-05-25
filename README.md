@@ -20,7 +20,7 @@ Sometimes, when I come across typos or have pending achievements to update, I li
 
 ###### About Me
 AiMall  
-linkedin: final year
+linkedin: final year  
 Nothing more  
 
 ###### Education
