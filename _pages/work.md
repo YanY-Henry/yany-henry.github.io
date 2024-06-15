@@ -11,7 +11,7 @@ redirect_from:
 
 * [**AiMall Tech. Co., Ltd**](https://www.mall-ai.com){: .no-underline-black-link }
   <span style="float: right;">Jun. 2024 - Aug. 2024 (expected)</span>  
-  *Machine Learning Engineer*
+  *Algorithm Engineer*
   <span style="float: right;">Shenzhen, China</span>
   * More details are to be updated.
 
