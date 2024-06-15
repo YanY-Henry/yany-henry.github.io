@@ -9,7 +9,7 @@ redirect_from:
 
 ## Internship
 
-* [**AiMall Tech. Co., Ltd**](https://www.mall-ai.com){: .no-underline-black-link }
+* [**AiMall Tech. Co., Ltd**](https://www.mall-ai.com)
   <span style="float: right;">Jun. 2024 - Aug. 2024 (expected)</span>  
   *Machine Learning Engineer*
   <span style="float: right;">Shenzhen, China</span>
