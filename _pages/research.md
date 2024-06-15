@@ -16,7 +16,7 @@ redirect_from:
   * More details are to be updated.
 
 * **Evaluation on the Vulnerability of Current Generative Models**
-  <span style="float: right;">Jan. 2024 - present</span>  
+  <span style="float: right;">Jan. 2024 - Jun. 2024</span>  
   *Supervisor: [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@[EPFL](https://www.epfl.ch/en/){: .no-underline-black-link })*
   <span style="float: right;">Lausanne, Switzerland</span>
   * **"Jailbreak" Analysis & Security Enhancement**: Experimented with more than ten large language model (LLM) "jailbreak" techniques to identify persistent vulnerabilities. This led to help technology companies develop enhanced defence mechanisms that improve the security of their LLMs and the ability to resist the generation of harmful content.
