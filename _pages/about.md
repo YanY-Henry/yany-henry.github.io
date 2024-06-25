@@ -19,7 +19,7 @@ Download my CV here 👉 ( [English](https://YanY-Henry.github.io/files/CV_YanYu
 ## Current Work
 
 1. **[AiMall Technology](https://www.mall-ai.com){: .no-underline-black-link }**, intern as an Algorithm Engineer.  
-   About: Multi-models AI, AI agent and Robotic process automation (RPA).
+   About: Computer Vision, LLM+LVM, and multiple application technologies (ARS, RPA, TTS, etc.).
 1. **Fact or Fairness? Identifying Over-Balanced Issues** supervised by [Prof. Michael R. LYU](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/){: .no-underline-black-link }.  
    About: Generative models and Social bias.
 1. **AIJobTech**, CTO in the AI-driven start-up.  
