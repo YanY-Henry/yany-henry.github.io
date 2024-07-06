@@ -17,7 +17,7 @@ redirect_from:
 
 ## Startup
 
-* **AIJobTech, Ltd**
+* [**AIJobTech, Ltd**]({: .no-underline-black-link }){: .no-underline-black-link }
   <span style="float: right;">Oct. 2023 - present</span>  
   *Co-founder & CTO*
   <span style="float: right;">Hong Kong SAR, China</span>
