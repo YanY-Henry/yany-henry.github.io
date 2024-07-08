@@ -27,12 +27,10 @@ Nothing more
 
 ###### Research
 Simplify  
-FYP  
 Nothing more  
 
 ###### Work
 Simplify  
-AiMall  
 Nothing more  
 
 ###### Misc.
