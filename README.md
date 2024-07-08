@@ -1,6 +1,6 @@
 # To View My Website
 
-You can use this link: `https://yany-henry.github.io/`, which will lead you to "[Welcome to Yuhang's Homepage](https://yany-henry.github.io/)".
+You can use this link: `https://yany-henry.me`, which will lead you to "[Welcome to Yuhang's Homepage](https://yany-henry.me)".
 
 ## To Build Such a Website
 
