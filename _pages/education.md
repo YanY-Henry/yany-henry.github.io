@@ -42,5 +42,5 @@ redirect_from:
 
 ## Teaching Assistant
 
-* GESH1010 (Fall 2022@CUHK): [Orientation and Outreach](https://www.shho.cuhk.edu.hk/general-education/induction-course-1010/overview/){: .no-underline-black-link }
+* GESH1010 (Fall 2022@CUHK): [Orientation and Outreach](https://www.shho.cuhk.edu.hk/general-education/induction-course-gesh1010-orientation-and-outreach/){: .no-underline-black-link }
   * S.H. Ho College General Education Induction Course
