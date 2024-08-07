@@ -23,7 +23,7 @@ redirect_from:
   <span style="float: right;">Hong Kong SAR, China</span>
   * **AI-Driven Job Matching Startup Launch and Funding**: Implemented AI recommendation systems algorithm to facilitate precise job matching for business positions.
       * Chosen for "[HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }" and secured HKD 1.2 million in seed funding.
-      * Chosen for "[HKU iDendron@Wanchai](https://idendron.hku.hk/){: .no-underline-black-link }".
-      * Chosen for "[CUHK VCCE](https://cuhkvcce.com){: .no-underline-black-link }"
+      * Chosen for "[HKU iDendron@Wanchai](https://tec.hku.hk/idendronwanchai/){: .no-underline-black-link }".
+      * Chosen for "[CUHK Vice Chancellor's Cup of Student Entrepreneurship (VCCE)](https://cuhkvcce.com){: .no-underline-black-link }".
   * **Resume Optimization with Large Language Models**: Led the deployment of large language models to polish resumes and personal statements, crafting a full-stack platform that elevates job search success and user satisfaction.
   * **Technical Leadership in Product Development**: Led the technical team in developing a business-focused and AI-powered job matching platform, integrating innovative tech to enhance product quality and market alignment.
