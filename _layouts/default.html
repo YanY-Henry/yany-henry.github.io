@@ -27,5 +27,15 @@ layout: compress
 
     {% include scripts.html %}
 
+    <!-- Add this script to open all links in a new tab -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          var links = document.querySelectorAll("a[href]");
+          links.forEach(function(link) {
+              link.setAttribute("target", "_blank");
+          });
+      });
+    </script>
+
   </body>
 </html>
