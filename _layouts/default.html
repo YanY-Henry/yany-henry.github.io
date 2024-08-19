@@ -27,13 +27,13 @@ layout: compress
 
     {% include scripts.html %}
 
-    <!-- Add this script to open external links in a new tab -->
+    <!-- Add this script to open external links in a new tab, except those in the .author__urls-wrapper -->
     <script>
       document.addEventListener("DOMContentLoaded", function() {
           var links = document.querySelectorAll("a[href]");
           links.forEach(function(link) {
               var href = link.getAttribute("href");
-              if (!href.includes("yany-henry.me")) {
+              if (!href.includes("yany-henry.me") && !link.closest('.author__urls-wrapper')) {
                   link.setAttribute("target", "_blank");
               }
           });
