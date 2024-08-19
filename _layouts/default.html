@@ -27,15 +27,19 @@ layout: compress
 
     {% include scripts.html %}
 
-    <!-- Add this script to open all links in a new tab -->
+    <!-- Add this script to open external links in a new tab -->
     <script>
       document.addEventListener("DOMContentLoaded", function() {
           var links = document.querySelectorAll("a[href]");
           links.forEach(function(link) {
-              link.setAttribute("target", "_blank");
+              var href = link.getAttribute("href");
+              if (!href.includes("yany-henry.me")) {
+                  link.setAttribute("target", "_blank");
+              }
           });
       });
     </script>
+
 
   </body>
 </html>
