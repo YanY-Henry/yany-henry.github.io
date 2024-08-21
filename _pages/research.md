@@ -15,7 +15,7 @@ redirect_from:
   <span style="float: right;">Hong Kong SAR, China</span>
   * More details are to be updated.
 
-* **Evaluation on the Vulnerability of Current Generative Models**
+* **Evaluation on the Vulnerability of Current Generative Models** [[Slides](https://YanY-Henry.github.io/files/SemesterProject2024_Slides.pdf)]
   <span style="float: right;">Feb. 2024 - Jun. 2024</span>  
   *Supervisor: [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@[EPFL](https://www.epfl.ch/en/){: .no-underline-black-link })*
   <span style="float: right;">Lausanne, Switzerland</span>
