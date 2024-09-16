@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-favicon                  : "/images/logo/logo-320x320.png"
+favicon                  : "/images/logo/favicon-320x320.png"
 locale                   : "en-US"
 title                    : "Yuhang YAN (Henry)"
 title_separator          : "-"
