@@ -9,8 +9,9 @@ redirect_from:
 
 ## About me
 
-I am YAN Yuhang Henry (闫禹杭), a final year undergraduate student at **The Chinese University of Hong Kong (CUHK)**, pursuing a major in **Computer Science**. I'm also a memeber of the ELITE Stream of Faculty of Engineering. During my second year and third year, I was offered two opportunities to spend a semester of exchange study at Peking University (**PKU**) and École Polytechnique Fédérale de Lausanne (**EPFL**), respectively. Recently, I am trying to reach out to different areas of computer science to enrich my knowledge.
+I am YAN Yuhang Henry (闫禹杭), a final-year **Computer Science** undergraduate at **The Chinese University of Hong Kong (CUHK)** and a member of the Faculty of Engineering's ELITE Stream. During my second and third years, I had the opportunity to spend exchange semesters at Peking University (**PKU**) and École Polytechnique Fédérale de Lausanne (**EPFL**). My research and internship experiences have primarily focused on **multimodal AI** and **AI security**, and I am still trying to explore various fields to enrich my knowledge.
 
+💥 Currently, I am applying to graduate programs in the United States for Fall 2025, hoping this new journey will better prepare me for my future academic and professional endeavors.
 <!--
 Download my CV here 👉 ( [English](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_EN.pdf) / [中文](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_ZH.pdf) ).
 -->
