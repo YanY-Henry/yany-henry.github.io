@@ -14,7 +14,7 @@ redirect_from:
 * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**
   <span style="float: right;">Sep. 2021 - Jul. 2025 (expected)</span>  
   *[B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }*
-  <span style="float: right;">Hong Kong SAR, China</span>  
+  <span style="float: right;">Hong Kong SAR</span>  
   * Cumulative GPA: **3.757**/4.000 (Top 10%).
   * Member of **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
   * **Spring Semester Exchange** to [IC School](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2023-24.
@@ -25,7 +25,7 @@ redirect_from:
 ## Skills
 
 * **Language**: English (Proficient), Mandarin (Native) and Cantonese (Intermediate).
-* **Programming**:  C/C++, Java, JavaScript, MATLAB, Python{Flask, PyTorch, TensorFlow} and SQL.
+* **Programming**:  C/C++, Java, JavaScript{React, Vue}, MATLAB, Python{Flask, PyTorch, TensorFlow} and SQL.
 * **Tools**: $\mathrm{\LaTeX}$, Conda, Git, Linux and Spark.
 
 

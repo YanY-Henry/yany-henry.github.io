@@ -20,7 +20,7 @@ redirect_from:
 * [**AIJobTech, Ltd**](https://aijobtech.co/){: .no-underline-black-link }
   <span style="float: right;">Oct. 2023 - present</span>  
   *Co-founder & CTO*
-  <span style="float: right;">Hong Kong SAR, China</span>
+  <span style="float: right;">Hong Kong SAR</span>
   * **AI-Driven Job Matching Startup Launch and Funding**: Implemented AI recommendation systems algorithm to facilitate precise job matching for business positions.
       * Chosen for "[HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }" and secured HKD 1.2 million in seed funding.
       * Chosen for "[HKU iDendron@Wanchai](https://tec.hku.hk/idendronwanchai/){: .no-underline-black-link }".

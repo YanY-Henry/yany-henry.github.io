@@ -12,7 +12,7 @@ redirect_from:
 * **Fact or Fairness? Identifying Over-Balanced Issues** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2024_Poster.pdf)]
   <span style="float: right;">Apr. 2024 - present</span>  
   *Supervisor: [Prof. Michael R. LYU](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
-  <span style="float: right;">Hong Kong SAR, China</span>
+  <span style="float: right;">Hong Kong SAR</span>
   * More details are to be updated.
 
 * **Evaluation on the Vulnerability of Current Generative Models** [[Slides](https://YanY-Henry.github.io/files/SemesterProject2024_Slides.pdf)]
@@ -26,7 +26,7 @@ redirect_from:
 * **Efficient Video Analytics** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   <span style="float: right;">Jun. 2023 - Sep. 2023</span>  
   *Supervisor: [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([CPII](https://www.cpii.hk){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
-  <span style="float: right;">Hong Kong SAR, China</span>
+  <span style="float: right;">Hong Kong SAR</span>
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
   * **Multi-modal AI System for Lost-and-Found at Hong Kong International Airport**: Utilized CLIP and OWL-ViT models to craft a multi-modal lost-and-found system, harnessing user texts and images to search through extensive video data, resulting in a significant advancement in applying AI to improve airport services.
   * **Custom Dataset and AI Model Evaluation**: Created a tailored airport video dataset and established multi-modal algorithm evaluation standards. This effort led to the selection of high-performing multi-modal Zero-Shot Object Detection and NLP models, saving the airport lost-and-found system processing time by 5-8 hours.
