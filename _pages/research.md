@@ -19,9 +19,9 @@ redirect_from:
   <span style="float: right;">Feb. 2024 - Jun. 2024</span>  
   *Supervisor: [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) & [Dr. Daichi Zhang](https://daisy-zhang.github.io) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@[EPFL](https://www.epfl.ch/en/){: .no-underline-black-link })*
   <span style="float: right;">Lausanne, Switzerland</span>
-  * **Assessed the defense mechanisms** of generative models against "jailbreak" attacks, revealing persistent security vulnerabilities.
-  * **Analyzed biases** in generative models, finding gender and racial biases in outputs, which calls for more balanced datasets.
-  * **Evaluated fake image detectors** uncovering demographic disparities in detection accuracy, highlighting the need for unbiased training data.
+  * **Assessed the defense mechanisms** of current generative models against "jailbreak" attacks, revealing persistent security vulnerabilities.
+  * **Analyzed biases in diffusion models**, finding gender and racial biases in generated images, which calls for more diverse training datasets.
+  * **Evaluated fake image detectors**, uncovering demographic disparities in detection accuracy, highlighting the need for fairer training data.
 
 * **Efficient Video Analytics** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   <span style="float: right;">Jun. 2023 - Sep. 2023</span>  
