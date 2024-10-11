@@ -21,7 +21,7 @@ redirect_from:
   <span style="float: right;">Lausanne, Switzerland</span>
   * **Assessed the defense mechanisms** of current generative models against "jailbreak" attacks, revealing persistent security vulnerabilities.
   * **Analyzed biases in diffusion models**, finding gender and racial biases in generated images, which calls for more diverse training datasets.
-  * **Evaluated fake image detectors**, uncovering demographic disparities in detection accuracy, highlighting the need for fairer training data.
+  * **Evaluated fake image detectors** uncovering demographic disparities in detection accuracy, highlighting the need for fairer training data.
 
 * **Efficient Video Analytics** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   <span style="float: right;">Jun. 2023 - Sep. 2023</span>  
