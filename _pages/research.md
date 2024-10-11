@@ -38,7 +38,7 @@ redirect_from:
   <span style="float: right;">Beijing, China</span>
   * **Developed an efficient platform** to analyze campus network traffic, examining link, traffic, and packet levels to identify user preferences.
   * **Mapped IP addresses** to domain names using TCP/IP and DNS packet analysis, extracting data from pcap files to understand network patterns.
-  * **Analyzed campus network traffic** to identify top domains and peak times with C++ and stream algorithms for parsing and in-depth analysis.
+  * **Analyzed campus network traffic** to identify top domains and peak times with C++ and streaming algorithms for parsing and in-depth analysis.
 
 
 <!--
