@@ -21,9 +21,7 @@ redirect_from:
   <span style="float: right;">Oct. 2023 - present</span>  
   *Co-founder & CTO*
   <span style="float: right;">Hong Kong SAR</span>
-  * **AI-Driven Job Matching Startup Launch and Funding**: Implemented AI recommendation systems algorithm to facilitate precise job matching for business positions.
-      * Chosen for "[HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }" and secured HKD 1.2 million in seed funding.
-      * Chosen for "[HKU iDendron@Wanchai](https://tec.hku.hk/idendronwanchai/){: .no-underline-black-link }".
-      * Chosen for "[CUHK Vice Chancellor's Cup of Student Entrepreneurship (VCCE)](https://cuhkvcce.com){: .no-underline-black-link }".
-  * **Resume Optimization with Large Language Models**: Led the deployment of large language models to polish resumes and personal statements, crafting a full-stack platform that elevates job search success and user satisfaction.
-  * **Technical Leadership in Product Development**: Led the technical team in developing a business-focused and AI-powered job matching platform, integrating innovative tech to enhance product quality and market alignment.
+  * **Led AIJobTech’s mission** as a co-founder and CTO to automate and personalize job search processes, enhancing inclusivity in job-seeking support.
+  * **Directed the development** of AI tools that score and optimize resumes, providing tailored suggestions to make resumes more effective and appealing for job seekers.
+  * **Guided the technical team** in implementing intelligent algorithms for resume-job matching, delivering personalized job recommendations and career planning insights to empower users.
+  * Chosen for [HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }, [HKU iDendron@Wanchai](https://tec.hku.hk/idendronwanchai/){: .no-underline-black-link } and [CUHK Vice Chancellor's Cup of Student Entrepreneurship (VCCE)](https://cuhkvcce.com){: .no-underline-black-link }.
