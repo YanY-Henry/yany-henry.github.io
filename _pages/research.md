@@ -11,13 +11,13 @@ redirect_from:
 
 * **Fact or Fairness? Identifying Over-Balanced Issues** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2024_Poster.pdf)]
   <span style="float: right;">Apr. 2024 - present</span>  
-  *Supervisor: [Prof. Michael R. LYU](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
+  *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) & [Mr. Jen-Tse Huang](https://penguinnnnn.github.io/index.html) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
   * More details are to be updated.
 
 * **Evaluation on the Vulnerability of Current Generative Models** [[Slides](https://YanY-Henry.github.io/files/SemesterProject2024_Slides.pdf)]
   <span style="float: right;">Feb. 2024 - Jun. 2024</span>  
-  *Supervisor: [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@[EPFL](https://www.epfl.ch/en/){: .no-underline-black-link })*
+  *Supervisor: [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) & [Mr. Daichi Zhang](https://daisy-zhang.github.io) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@[EPFL](https://www.epfl.ch/en/){: .no-underline-black-link })*
   <span style="float: right;">Lausanne, Switzerland</span>
   * **"Jailbreak" Analysis & Security Enhancement**: Experimented with more than ten large language model (LLM) "jailbreak" techniques to identify persistent vulnerabilities. This led to help technology companies develop enhanced defence mechanisms that improve the security of their LLMs and the ability to resist the generation of harmful content.
   * **Advanced Alignment Circumventing Techniques**: Utilized reinforcement learning and greedy search to identify alternatives to sensitive words within the latent space to circumvent the alignment of the LLMs. These techniques circumvent traditional alignment mechanisms, exposing critical security vulnerabilities within LLMs.
