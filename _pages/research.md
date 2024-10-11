@@ -11,7 +11,7 @@ redirect_from:
 
 1. **FACT-OR-FAIR: A Checklist for Behavioral Testing of AI Models on Fairness-Related Queries**  
    Jen-tse Huang, **Yuhang Yan**, Linqi Liu, Yixin Wan, Wenxuan Wang, Michael R. Lyu  
-   *| arXiv 2024 | [paper]() |*
+   | *arXiv 2024* | *[paper]()* |
 
 ## Projects
 
