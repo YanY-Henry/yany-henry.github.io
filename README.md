@@ -27,6 +27,7 @@ no-display link style: `[content](link){: .no-underline-black-link }`
 Sometimes, when I come across typos or have pending achievements to update, I like to refine them here before integrating them into my CV and personal pages during my free time.
 
 ###### About Me
+ORCID  
 Nothing more  
 
 ###### Education
