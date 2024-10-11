@@ -13,8 +13,7 @@ redirect_from:
   <span style="float: right;">Jun. 2024 - Aug. 2024</span>  
   *Algorithm Engineer*
   <span style="float: right;">Shenzhen, China</span>
-  * More details are to be updated. [[1]](#patent-1){: .in-site-indexing }
-  * [[2]](research.md#paper-1){: .in-site-indexing }
+  * More details are to be updated. <!--[[1]](#patent-1){: .in-site-indexing }-->
 
 ## Startup
 
@@ -27,8 +26,10 @@ redirect_from:
   * **Guided the technical team** in implementing resume-job matching algorithms, delivering personalized job recommendations and career insights.
   * Selected for [HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }, [HKU iDendron@Wanchai](https://tec.hku.hk/idendronwanchai/){: .no-underline-black-link } and [CUHK VCCE](https://cuhkvcce.com){: .no-underline-black-link }.
 
+<!--
 ## Patent
 
-1. <h2 id="patent-1"></h2>**A Tool**  
-   Heng Yang, Yuhang Yan
-   | *CN* | *[Google Patent](https://patents.google.com)* |
+1. <h2 id="patent-1"></h2>**A System**  
+   Heng Yang, **Yuhang Yan**  
+   | *CN* | *Published 2024* | *[Google Patent](https://patents.google.com)* |
+-->

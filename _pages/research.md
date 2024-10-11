@@ -7,11 +7,13 @@ author_profile: true
 redirect_from:
 ---
 
+<!--
 ## Publication
 
 1. <h2 id="paper-1"></h2>**FACT-OR-FAIR: A Checklist for Behavioral Testing of AI Models on Fairness-Related Queries**  
    Jen-tse Huang, **Yuhang Yan**, Linqi Liu, Yixin Wan, Wenxuan Wang, Michael R. Lyu  
-   | *arXiv 2024* | *[paper]()* |
+   | *arXiv 2024* | *[paper](https://arxiv.org)* |
+-->
 
 ## Projects
 
@@ -19,7 +21,7 @@ redirect_from:
   <span style="float: right;">Apr. 2024 - present</span>  
   *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) & [Dr. Jen-Tse Huang](https://penguinnnnn.github.io/index.html) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
-  * More details are to be updated. [[1]](#paper-1){: .in-site-indexing }
+  * More details are to be updated. <!--[[1]](#paper-1){: .in-site-indexing }-->
 
 * **Evaluation on the Vulnerability of Current Generative Models** [[Slides](https://YanY-Henry.github.io/files/SemesterProject2024_Slides.pdf)]
   <span style="float: right;">Feb. 2024 - Jun. 2024</span>  
@@ -45,8 +47,3 @@ redirect_from:
   * **Developed an efficient platform** to analyze campus network traffic, examining link, traffic, and packet levels to identify user preferences.
   * **Mapped IP addresses to domain names** using TCP/IP and DNS packet analysis, extracting data from pcap files to understand network patterns.
   * **Analyzed campus network traffic** to identify top domains and peak times with C++ and streaming algorithms for parsing and in-depth analysis.
-
-
-<!--
-## Publications
--->
