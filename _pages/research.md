@@ -36,10 +36,9 @@ redirect_from:
   <span style="float: right;">Apr. 2023 - Jun. 2023</span>  
   *Supervisor: [Prof. Tong YANG](https://yangtonghome.github.io) ([DSE](https://dse.pku.edu.cn){: .no-underline-black-link }@[PKU](https://english.pku.edu.cn){: .no-underline-black-link })*
   <span style="float: right;">Beijing, China</span>
-  * **Traffic Characteristics Analysis and Platform Development**: Leveraged a high-performance traffic analysis platform built from scratch. Conducted detailed statistics and analysis of network traffic characteristics at the link, traffic, and packet levels using core traffic data to recognize campus network user preference.
-  * **TCP/IP and DNS Packet Analysis for Data Mapping**: Utilized campus network traffic data to extract and map IP addresses to domain names from pcap files, focusing on DNS packet structures. This task involved detailed examination and application of TCP/IP protocols to analyze network traffic patterns.
-  * **Campus Network Traffic Analysis**: Identified Top-K domains with the highest traffic volumes to understand user
-preferences in the campus network. Utilized C++ to parse DNS-containing pcap files, mapping IP addresses and domain names, analyzing network usage patterns, including peak request times and high-traffic sites.
+  * **Developed a high-performance platform** to analyze campus network traffic, examining link, traffic, and packet levels to identify user preferences.
+  * **Mapped IP addresses** to domain names using TCP/IP and DNS packet analysis, extracting data from pcap files to understand network patterns.
+  * **Analyzed campus network traffic** to identify top domains and peak times with C++ and data stream algorithms for parsing and in-depth analysis.
 
 
 <!--
