@@ -33,7 +33,7 @@ redirect_from:
 
 * **Efficient Video Analytics** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   <span style="float: right;">Jun. 2023 - Sep. 2023</span>  
-  *Supervisor: [Prof. Eric LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([CPII](https://www.cpii.hk){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
+  *Supervisor: [Prof. Eric Lo](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([CPII](https://www.cpii.hk){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
   * **Developed a multimodal AI system** using CLIP and OWL-ViT models for text or image based lost-and-found queries at Hong Kong Airport.
