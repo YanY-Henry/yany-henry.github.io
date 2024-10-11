@@ -21,7 +21,6 @@ redirect_from:
   <span style="float: right;">Oct. 2023 - present</span>  
   *Co-founder & CTO*
   <span style="float: right;">Hong Kong SAR</span>
-  
   * **Led AIJobTech’s mission** as a co-founder and CTO to automate and personalize job searches, improving efficiency in job-seeking support.
   * **Directed the development** of AI tools that score and optimize resumes, providing tailored suggestions to enhance their effectiveness and appeal.
   * **Guided the technical team** in implementing resume-job matching algorithms, delivering personalized job recommendations and career insights.
