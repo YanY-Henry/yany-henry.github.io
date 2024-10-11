@@ -14,6 +14,8 @@ You can use this link: `https://yany-henry.me`, which will lead you to "[Welcome
 
 See more info at https://academicpages.github.io/
 
+A cozy orange: #e89b00
+
 ## TODO
 
 Sometimes, when I come across typos or have pending achievements to update, I like to refine them here before integrating them into my CV and personal pages during my free time.
@@ -22,7 +24,6 @@ Sometimes, when I come across typos or have pending achievements to update, I li
 Nothing more  
 
 ###### Education
-CV: Anaconda -> Conda  
 Nothing more  
 
 ###### Research
