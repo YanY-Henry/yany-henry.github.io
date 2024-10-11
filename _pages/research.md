@@ -33,7 +33,7 @@ redirect_from:
 
 * **Efficient Video Analytics** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   <span style="float: right;">Jun. 2023 - Sep. 2023</span>  
-  *Supervisor: [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([CPII](https://www.cpii.hk){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
+  *Supervisor: [Prof. Eric LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([CPII](https://www.cpii.hk){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
   * **Developed a multimodal AI system** using CLIP and OWL-ViT models for text or image based lost-and-found queries at Hong Kong Airport.
@@ -42,7 +42,7 @@ redirect_from:
 
 * **Traffic Characteristics Analysis of the Network**
   <span style="float: right;">Apr. 2023 - Jun. 2023</span>  
-  *Supervisor: [Prof. Tong YANG](https://yangtonghome.github.io) ([DSE](https://dse.pku.edu.cn){: .no-underline-black-link }@[PKU](https://english.pku.edu.cn){: .no-underline-black-link })*
+  *Supervisor: [Prof. Tong Yang](https://yangtonghome.github.io) ([DSE](https://dse.pku.edu.cn){: .no-underline-black-link }@[PKU](https://english.pku.edu.cn){: .no-underline-black-link })*
   <span style="float: right;">Beijing, China</span>
   * **Developed an efficient platform** to analyze campus network traffic, examining link, traffic, and packet levels to identify user preferences.
   * **Mapped IP addresses to domain names** using TCP/IP and DNS packet analysis, extracting data from pcap files to understand network patterns.
