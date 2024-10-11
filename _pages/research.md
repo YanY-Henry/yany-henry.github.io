@@ -28,8 +28,8 @@ redirect_from:
   *Supervisor: [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([CPII](https://www.cpii.hk){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
-  * **Developed a multimodal AI system** with CLIP and OWL-ViT models to improve lost-and-found searches at Hong Kong Airport using text and image inputs.
-  * **Created custom datasets and evaluation standards** to select optimal Zero-Shot Object Detection and NLP models, cutting processing time by 5-8 hours.
+  * **Developed a multimodal AI system** using CLIP and OWL-ViT models for text or image based lost-and-found queries at Hong Kong Airport.
+  * **Created custom datasets and evaluation standards** to select the most accurate and efficient Zero-Shot Object Detection and NLP models.
   * **Optimized frame** detection with an algorithm that improved fault tolerance, allowing efficient, accurate search through large video datasets.
 
 * **Traffic Characteristics Analysis of the Network**
