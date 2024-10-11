@@ -28,9 +28,9 @@ redirect_from:
   *Supervisor: [Prof. Eric Chi Lik LO](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([CPII](https://www.cpii.hk){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
-  * **Multi-modal AI System for Lost-and-Found at Hong Kong International Airport**: Utilized CLIP and OWL-ViT models to craft a multi-modal lost-and-found system, harnessing user texts and images to search through extensive video data, resulting in a significant advancement in applying AI to improve airport services.
-  * **Custom Dataset and AI Model Evaluation**: Created a tailored airport video dataset and established multi-modal algorithm evaluation standards. This effort led to the selection of high-performing multi-modal Zero-Shot Object Detection and NLP models, saving the airport lost-and-found system processing time by 5-8 hours.
-  * **Frame Detection Optimization with Increased Tolerance**: Developed an algorithm to identify potential frames for lost items, overcoming challenges in pinpoint accuracy by experimenting with tolerance levels. This improved fault tolerance and made searching through large video footage more efficient, while ensuring high accuracy and recall rate.
+  * **Developed a multimodal AI system** with CLIP and OWL-ViT models to improve lost-and-found searches at Hong Kong Airport using text and image inputs.
+  * **Created custom datasets and evaluation standards** to select optimal Zero-Shot Object Detection and NLP models, cutting processing time by 5-8 hours.
+  * **Optimized frame** detection with an algorithm that improved fault tolerance, allowing efficient, accurate search through large video datasets.
 
 * **Traffic Characteristics Analysis of the Network**
   <span style="float: right;">Apr. 2023 - Jun. 2023</span>  
