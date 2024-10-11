@@ -10,11 +10,11 @@
 }
 
 .in-site-indexing,{
-  color: $light-gray !important;
+  color: #0072b1 !important;
   text-decoration: none !important;
 }
 
 .in-site-indexing:hover {
   text-decoration: underline !important;
-  background: #f2f2f2 !important;
+  background: $gray !important;
 }
