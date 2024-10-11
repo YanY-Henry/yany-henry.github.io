@@ -19,9 +19,9 @@ redirect_from:
   <span style="float: right;">Feb. 2024 - Jun. 2024</span>  
   *Supervisor: [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) & [Dr. Daichi Zhang](https://daisy-zhang.github.io) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@[EPFL](https://www.epfl.ch/en/){: .no-underline-black-link })*
   <span style="float: right;">Lausanne, Switzerland</span>
-  * **"Jailbreak" Analysis & Security Enhancement**: Experimented with more than ten large language model (LLM) "jailbreak" techniques to identify persistent vulnerabilities. This led to help technology companies develop enhanced defence mechanisms that improve the security of their LLMs and the ability to resist the generation of harmful content.
-  * **Advanced Alignment Circumventing Techniques**: Utilized reinforcement learning and greedy search to identify alternatives to sensitive words within the latent space to circumvent the alignment of the LLMs. These techniques circumvent traditional alignment mechanisms, exposing critical security vulnerabilities within LLMs.
-  * **Attention Diversion Techniques for LLMs**: Designed an array of intricate input prompts and conducted extensive experiments with potentially harmful statements. These efforts effectively diverted LLM attention, facilitating precise identification of weaknesses and enabling targeted attack strategies.
+  * **Assessed the defense mechanisms** of generative models against "jailbreak" attacks, revealing persistent security vulnerabilities.
+  * **Analyzed biases** in generative models, finding gender and racial biases in outputs, which calls for more balanced datasets.
+  * **Evaluated fake image detectors** uncovering demographic disparities in detection accuracy, highlighting the need for unbiased training data.
 
 * **Efficient Video Analytics** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
   <span style="float: right;">Jun. 2023 - Sep. 2023</span>  
