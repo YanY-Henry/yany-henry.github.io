@@ -27,11 +27,11 @@ Nothing more
 Nothing more  
 
 ###### Research
-Simplify  
+FYP + paper  
 Nothing more  
 
 ###### Work
-Simplify  
+AiMall + Patent  
 Nothing more  
 
 ###### Misc.
