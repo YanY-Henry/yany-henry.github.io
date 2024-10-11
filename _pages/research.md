@@ -30,7 +30,7 @@ redirect_from:
   * Won the **Best Project Award 2023** among 58 undergraduate projects.
   * **Developed a multimodal AI system** using CLIP and OWL-ViT models for text or image based lost-and-found queries at Hong Kong Airport.
   * **Created custom datasets and evaluation standards** to select the most accurate and efficient Zero-Shot Object Detection and NLP models.
-  * **Optimized frame** detection with an algorithm that improved fault tolerance, allowing efficient, accurate search through large video datasets.
+  * **Optimized frame detection** with an algorithm that improved fault tolerance, allowing efficient, accurate search through large video datasets.
 
 * **Traffic Characteristics Analysis of the Network**
   <span style="float: right;">Apr. 2023 - Jun. 2023</span>  
