@@ -19,7 +19,7 @@ Download my CV here 👉 ( [English](https://YanY-Henry.github.io/files/CV_YanYu
 
 ## Current Work
 
-1. **Fact or Fairness? Identifying Over-Balanced Issues** supervised by [Prof. Michael R. LYU](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/){: .no-underline-black-link }.  
+1. **Fact or Fairness? Identifying Over-Balanced Issues** supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/){: .no-underline-black-link }.  
    About: Generative models and Social bias.
 1. **[AIJobTech](https://aijobtech.co/){: .no-underline-black-link }**, CTO in the AI-driven start-up.  
    About: Full-stack development, Large language models and Recommendation systems.
