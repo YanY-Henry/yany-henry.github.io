@@ -30,4 +30,4 @@ redirect_from:
 
 1. <h2 id="patent-1"></h2>**Natural language interactive retrieval intelligent security system based on large models**  
    Heng Yang, Yongjie Wu, Tao Long, **Yuhang Yan**  
-   | *202411421116.2* | *Filed 2024-10-12* |<!-- *[Google Patent](https://patents.google.com)* |-->
+   | *CN202411421116.2* | *Filed 2024-10-12* |<!-- *[Google Patent](https://patents.google.com)* |-->
