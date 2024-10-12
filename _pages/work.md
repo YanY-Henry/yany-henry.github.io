@@ -27,7 +27,6 @@ redirect_from:
   * Selected for [HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }, [HKU iDendron@Wanchai](https://tec.hku.hk/idendronwanchai/){: .no-underline-black-link } and [CUHK VCCE](https://cuhkvcce.com){: .no-underline-black-link }.
 
 ## Patent
-
 1. <h2 id="patent-1"></h2>**Natural language interactive retrieval intelligent security system based on large models**  
    Heng Yang, Yongjie Wu, Tao Long, **Yuhang Yan**  
    | *CN202411421116.2* | *Filed 2024-10-12* |<!-- *[Google Patent](https://patents.google.com)* |-->
