@@ -33,7 +33,7 @@ layout: compress
           var links = document.querySelectorAll("a[href]");
           links.forEach(function(link) {
               var href = link.getAttribute("href");
-              if (!href.includes("yany-henry.me") && !link.closest('.author__urls-wrapper')) {
+              if (!href.includes("yany-henry.me") && href.startsWith("http") && !link.closest('.author__urls-wrapper')) {
                   link.setAttribute("target", "_blank");
               }
           });

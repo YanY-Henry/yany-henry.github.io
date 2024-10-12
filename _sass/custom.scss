@@ -1,10 +1,20 @@
 @import "_variables";
 
 .no-underline-black-link {
-    color: $text-color !important;
-    text-decoration: none !important;
-  }
+  color: $text-color !important;
+  text-decoration: none !important;
+}
 
 .no-underline-black-link:hover {
-    text-decoration: underline !important;
+  text-decoration: underline !important;
+}
+
+.in-site-indexing,{
+  color: #0072b1 !important;
+  text-decoration: none !important;
+}
+
+.in-site-indexing:hover {
+  text-decoration: underline !important;
+  background: #e5e5e5 !important;
 }

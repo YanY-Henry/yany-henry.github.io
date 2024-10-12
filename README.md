@@ -14,23 +14,31 @@ You can use this link: `https://yany-henry.me`, which will lead you to "[Welcome
 
 See more info at https://academicpages.github.io/
 
+## Code Memo
+
+font-size: [font-size](_sass/_reset.scss/#L14)  
+font-family: [font-family](_sass/_variables.scss/#L32)  
+A cozy orange: `#e89b00`  
+right-justify: `<span style="float: right;">content</span>`  
+no-display link style: `[content](link){: .no-underline-black-link }`  
+
 ## TODO
 
 Sometimes, when I come across typos or have pending achievements to update, I like to refine them here before integrating them into my CV and personal pages during my free time.
 
 ###### About Me
+CV + ORCID  
 Nothing more  
 
 ###### Education
-CV: Anaconda -> Conda  
 Nothing more  
 
 ###### Research
-Simplify  
+paper + FYP  
 Nothing more  
 
 ###### Work
-Simplify  
+AiMall + patent  
 Nothing more  
 
 ###### Misc.
