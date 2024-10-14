@@ -240,9 +240,9 @@
   width: 100%;
   height: auto;
 
-  @include breakpoint($large) {
-    display: block;
-  }
+  // @include breakpoint($large) {
+  //   display: block;   // show the widget
+  // }
 
   display: none;
 }
