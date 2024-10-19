@@ -50,12 +50,12 @@
 </style>
 
 <script>
-  // Fetch random quote from Quotable API
-  fetch('https://api.quotable.io/quotes/random')
+  // Fetch random quote from Quotable API with max length of 100 characters
+  fetch('https://api.quotable.io/quotes/random?maxLength=100')
     .then(response => response.json())
     .then(data => {
       // Format the quote as "quote --author"
-      const mottoText = `${data[0].content} --${data[0].author}`;
+      const mottoText = `${data.content} --${data.author}`;
       // Insert the motto into the div with id "motto"
       document.getElementById('motto').innerText = mottoText;
     })
