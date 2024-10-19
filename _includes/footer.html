@@ -52,8 +52,8 @@
 <script>
   console.log("Fetching quote...");
 
-  // Fetch random quote from Quotable API with max length of 100 characters
-  fetch('https://api.quotable.io/quotes/random?maxLength=100')
+  // Fetch random quote from Quotable API with max length of 80 characters
+  fetch('https://quoteslate.vercel.app/api/quotes/random?maxLength=80')
     .then(response => {
       console.log("Response received:", response);
       return response.json();
@@ -61,7 +61,7 @@
     .then(data => {
       console.log("Quote data:", data);
       // Format the quote as "quote --author"
-      const mottoText = `${data.content} --${data.author}`;
+      const mottoText = `${data.quote} --${data.author}`;
       // Insert the motto into the div with id "motto"
       document.getElementById('motto').innerText = mottoText;
     })
