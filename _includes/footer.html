@@ -1,8 +1,7 @@
 {% include base_path %}
 
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    <li><strong>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. </strong></li>-->
+<!--<div class="page__footer-follow">-->
+<!--  <ul class="social-icons">-->
 <!--    {% if site.data.ui-text[site.locale].follow_label %}-->
 <!--      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>-->
 <!--    {% endif %}-->
@@ -19,7 +18,49 @@
 <!--      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>-->
 <!--    {% endif %}-->
 <!--    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>-->
-  </ul>
+<!--  </ul>-->
+<!--</div>-->
+
+<div class="page__footer-motto" id="motto">
+  Loading a random motto<span class="dot">.</span><span class="dot">.</span><span class="dot">.</span>
 </div>
 
-<div class="page__footer-copyright">{{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+</div>
+
+<style>
+  /* 打字机效果的动画 */
+  .dot {
+    opacity: 0;
+    animation: dot-blink 1.5s infinite;
+  }
+  .dot:nth-child(2) {
+    animation-delay: 0.5s;
+  }
+  .dot:nth-child(3) {
+    animation-delay: 1s;
+  }
+
+  @keyframes dot-blink {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
+
+<script>
+  // Fetch random quote from Quotable API
+  fetch('https://api.quotable.io/quotes/random')
+    .then(response => response.json())
+    .then(data => {
+      // Format the quote as "quote --author"
+      const mottoText = `${data[0].content} --${data[0].author}`;
+      // Insert the motto into the div with id "motto"
+      document.getElementById('motto').innerText = mottoText;
+    })
+    .catch(error => {
+      // Fallback message in case the API call fails
+      document.getElementById('motto').innerText = "Stay Hungry. Stay Foolish. --Steve Jobs";
+    });
+</script>
