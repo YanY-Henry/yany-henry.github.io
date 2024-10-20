@@ -15,7 +15,7 @@ redirect_from:
   <span style="float: right;">Shenzhen, China</span>
   * **Automated the monitoring platform** using RPA technology, enabling fully autonomous real-time surveillance without human intervention. [[1]](#patent-1){: .in-site-indexing }
   * **Designed an security system** with large models for efficient and accurate retrieval of people, objects, and events from large-scale video data.
-  * **Fine-tuned proprietary large language model** ["iCanBridge"](){: .no-underline-black-link } through self-awareness training, enhancing its cognition capabilities.
+  * **Fine-tuned proprietary large language model** ["iCanBridge"](https://mp.weixin.qq.com/s/CTaQ5AQ4r04BNOxkc92k0Q){: .no-underline-black-link } through self-awareness training, enhancing its cognition capabilities.
 
 ## Startup
 
