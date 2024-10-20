@@ -21,7 +21,7 @@ redirect_from:
   <span style="float: right;">Apr. 2024 - present</span>  
   *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) & [Dr. Jen-tse Huang](https://penguinnnnn.github.io/index.html) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
-  * Analyzed generative models for gender and racial biases using 19 social demographic data, identifying over-balanced issues in content generation.
+  * Analyzed generative models for gender and racial biases using social demographic data, identifying over-balanced issues in content generation.
   * Investigated the trade-offs between fairness and accuracy in generative models, assessing how these factors influence model performance.
   * Developed quantitative fairness evaluation metrics to improve bias detection and enhance fairness assessments in generative model outputs. [[1]](#paper-1){: .in-site-indexing }
 
