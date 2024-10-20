@@ -9,11 +9,13 @@ redirect_from:
 
 ## Internship
 
-* [**AiMall Technology Co., Ltd**](https://www.mall-ai.com){: .no-underline-black-link }
+* [**AiMall Technology Co., Ltd**](https://www.mall-ai.com){: .no-underline-black-link } [[Patent 1]](#patent-1){: .in-site-indexing }
   <span style="float: right;">Jun. 2024 - Aug. 2024</span>  
   *Algorithm Engineer*
   <span style="float: right;">Shenzhen, China</span>
-  * More details are to be updated. [[1]](#patent-1){: .in-site-indexing }
+  * **Automated the monitoring platform** using RPA technology, enabling fully autonomous real-time surveillance without human intervention. 
+  * **Designed an security system** with large models for efficient and accurate retrieval of people, objects, and events from large-scale video data.
+  * **Fine-tuned proprietary LLM** ["iCanBridge"](){: .no-underline-black-link } through self-awareness training, enhancing its cognition capabilities.
 
 ## Startup
 
