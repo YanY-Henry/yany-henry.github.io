@@ -11,17 +11,19 @@ redirect_from:
 ## Publication
 
 1. <h3 id="paper-1"></h3>**FACT-OR-FAIR: A Checklist for Behavioral Testing of AI Models on Fairness-Related Queries**  
-   Jen-tse Huang, **Yuhang Yan**, Linqi Liu, Yixin Wan, Wenxuan Wang, Michael R. Lyu  
+   Jen-tse Huang, **Yuhang Yan**, Linqi Liu, Yixin Wan, Wenxuan Wang, Kai-Wei Chang, Michael R. Lyu  
    | *arXiv 2024* | *[paper](https://arxiv.org)* |
 -->
 
 ## Projects
 
-* **Fact or Fairness? Identifying Over-Balanced Issues** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2024_Poster.pdf)]
+* **Fact or Fairness? Identifying Over-Balanced Issues** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2024_Poster.pdf)]<!--[[Paper 1]](#paper-1){: .in-site-indexing }-->
   <span style="float: right;">Apr. 2024 - present</span>  
-  *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) & [Dr. Jen-Tse Huang](https://penguinnnnn.github.io/index.html) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
+  *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) & [Dr. Jen-tse Huang](https://penguinnnnn.github.io/index.html) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
-  * More details are to be updated. <!--[[1]](#paper-1){: .in-site-indexing }-->
+  * **Analyzed gender and racial biases** in generative models using social demographic data, identifying over-balanced issues in content generation.
+  * **Investigated the trade-offs** between fairness and accuracy in generative models, assessing how these factors influence model performance. 
+  * **Developed quantitative metrics** to evaluate fairness, improving bias detection and enhance fairness assessments in generative model outputs.
 
 * **Evaluation on the Vulnerability of Current Generative Models** [[Slides](https://YanY-Henry.github.io/files/SemesterProject2024_Slides.pdf)]
   <span style="float: right;">Feb. 2024 - Jun. 2024</span>  
