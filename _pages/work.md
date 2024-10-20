@@ -18,7 +18,7 @@ redirect_from:
 ## Startup
 
 * [**AIJobTech, Ltd**](https://aijobtech.co/){: .no-underline-black-link }
-  <span style="float: right;">Oct. 2023 - present</span>  
+  <span style="float: right;">Mar. 2024 - present</span>  
   *Co-founder & CTO*
   <span style="float: right;">Hong Kong SAR</span>
   * **Led AIJobTech’s mission** as a co-founder and CTO to automate and personalize job searches, improving efficiency in job-seeking support.
