@@ -9,7 +9,7 @@ redirect_from:
 
 ## Internship
 
-* [**AiMall Technology Co., Ltd**](https://www.mall-ai.com){: .no-underline-black-link }
+* [**AiMall Technology Co., Ltd.**](https://www.mall-ai.com){: .no-underline-black-link }
   <span style="float: right;">Jun. 2024 - Aug. 2024</span>  
   *Algorithm Engineer*
   <span style="float: right;">Shenzhen, China</span>
@@ -19,7 +19,7 @@ redirect_from:
 
 ## Startup
 
-* [**AIJobTech, Ltd**](https://aijobtech.co/){: .no-underline-black-link }
+* [**AIJobTech, Ltd.**](https://aijobtech.co/){: .no-underline-black-link }
   <span style="float: right;">Mar. 2024 - present</span>  
   *Co-founder & CTO*
   <span style="float: right;">Hong Kong SAR</span>
