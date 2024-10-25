@@ -236,6 +236,13 @@ body:hover .visually-hidden button {
   .ai-orcid,
   .ai-orcid-square {
     color: $orcid-color;
+    font-size: 12px;
+    width: 1.13em;
+
+    @include breakpoint($medium) {
+      font-size: 13px;
+      width: 1.15em;
+    }
   }
 
   .fa-pinterest,
