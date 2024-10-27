@@ -85,11 +85,11 @@ author:
   avatar           : "profile.jpg"
   bio              : "\"That I exist is a perpetual surprise which is life.\" - Rabindranath Tagore" 
   location         : "Hong Kong SAR, China"
-  employer         :  # "The Chinese University of Hong Kong"
-  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  employer         : # "The Chinese University of Hong Kong"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "yhyan2@cse.cuhk.edu.hk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,8 +100,8 @@ author:
   github           : "YanY-Henry"
   google_plus      :
   keybase          :
-  instagram        : "yyh_henry"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : # "yyh_henry"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "YanY-Henry"
   orcid            : # "0009-0005-4274-7342"

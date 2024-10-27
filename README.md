@@ -34,11 +34,11 @@ Nothing more
 Nothing more  
 
 ###### Research
-paper + FYP  
+paper  
 Nothing more  
 
 ###### Work
-AiMall + patent  
+patent  
 Nothing more  
 
 ###### Misc.
