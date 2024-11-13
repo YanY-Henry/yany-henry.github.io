@@ -85,6 +85,9 @@
   img {
     max-width: 175px;
     border-radius: 50%;
+    user-select: none;
+    pointer-events: none;
+    -webkit-user-drag: none;
 
     @include breakpoint($large) {
       padding: 5px;
