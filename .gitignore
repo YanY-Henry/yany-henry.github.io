@@ -1,3 +1,6 @@
 _site/
 .idea/
 test/
+.sass-cache/
+Gemfile.lock
+.DS_Store
