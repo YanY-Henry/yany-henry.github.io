@@ -84,7 +84,7 @@ author:
   name             : "Yuhang YAN (Henry)"
   avatar           : "profile.jpg"
   bio              : "\"That I exist is a perpetual surprise which is life.\" - Rabindranath Tagore" 
-  location         : "Hong Kong SAR, China"
+  location         : "Hong Kong SAR"
   employer         : # "The Chinese University of Hong Kong"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -104,7 +104,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "YanY-Henry"
-  orcid            : # "0009-0005-4274-7342"
+  orcid            : "0009-0005-4274-7342"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
