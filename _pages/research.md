@@ -15,12 +15,12 @@ redirect_from:
 
 ## Projects
 
-* **Fact or Fairness? Identifying Over-Balanced Issues** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2024_Poster.pdf)][[Paper 1]](#paper-1){: .in-site-indexing }
+* **Fact or Fairness? Identifying Over-Balanced Issues** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2024_Poster.pdf)]
   <span style="float: right;">Apr. 2024 - present</span>  
   *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) & [Dr. Jen-tse Huang](https://penguinnnnn.github.io/index.html) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
   * **Analyzed gender and racial biases** in generative models using social demographic data, identifying over-balanced issues in content generation.
-  * **Investigated the trade-offs** between fairness and accuracy in generative models, assessing how these factors influence model performance. 
+  * **Investigated the trade-offs** between fairness and accuracy in generative models, assessing how these factors influence model performance. [[1]](#paper-1){: .in-site-indexing }
   * **Developed quantitative metrics** to evaluate fairness, improving bias detection and enhance fairness assessments in generative model outputs.
 
 * **Evaluation on the Vulnerability of Current Generative Models** [[Slides](https://YanY-Henry.github.io/files/SemesterProject2024_Slides.pdf)]
