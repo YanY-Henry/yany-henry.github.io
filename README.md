@@ -30,7 +30,6 @@ Nothing more
 Nothing more  
 
 ###### Work
-patent  
 Nothing more  
 
 ###### Misc.
