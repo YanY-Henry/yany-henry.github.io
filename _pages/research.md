@@ -9,13 +9,13 @@ redirect_from:
 
 ## Publication
 
-1. <h3 id="paper-1"></h3>**Fact-or-Fair: A Checklist for Behavioral Testing of AI Models on Fairness-Related Queries**  
+1. <p id="paper-1"></p>**Fact-or-Fair: A Checklist for Behavioral Testing of AI Models on Fairness-Related Queries**  
    Jen-tse Huang, **Yuhang Yan**, Linqi Liu, Yixin Wan, Wenxuan Wang, Kai-Wei Chang, Michael R. Lyu  
    | *arXiv 2024* | *[Paper](https://YanY-Henry.github.io/files/publications/Fact_or_Fair.pdf)* |<!-- *[DOI: ]()* |-->
 
 ## Projects
 
-* **Fact or Fairness? Identifying Over-Balanced Issues** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2024_Poster.pdf)]<!--[[Paper 1]](#paper-1){: .in-site-indexing }-->
+* **Fact or Fairness? Identifying Over-Balanced Issues** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2024_Poster.pdf)][[Paper 1]](#paper-1){: .in-site-indexing }
   <span style="float: right;">Apr. 2024 - present</span>  
   *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) & [Dr. Jen-tse Huang](https://penguinnnnn.github.io/index.html) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
