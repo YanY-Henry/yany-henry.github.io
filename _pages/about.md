@@ -21,7 +21,7 @@ Download my full resume here 👉 ( [English](https://YanY-Henry.github.io/files
 
 ## Current Work
 
-1. "**Can AI Agent fit in Human Society?**" supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/){: .no-underline-black-link }.  
+1. "**Can AI Agent Fit in Human Society?**" supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/){: .no-underline-black-link }.  
    About: Generative models, Social bias and Trustworthy AI.
 1. **[AIJobTech](https://aijobtech.co/){: .no-underline-black-link }**, CTO in the AI-driven start-up.  
    About: Full-stack development, Large language models and Recommendation systems.
