@@ -12,7 +12,7 @@ redirect_from:
 ## Background
 
 * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**
-  <span style="float: right;">Sep. 2021 - Jul. 2025 (expected)</span>  
+  <span style="float: right;">Aug. 2021 - Jul. 2025 (expected)</span>  
   *[B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }*
   <span style="float: right;">Hong Kong SAR</span>  
   * Cumulative GPA: **3.757**/4.000 (Top 10%).
