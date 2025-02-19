@@ -18,7 +18,7 @@ no-display link style: `[content](link){: .no-underline-black-link }`
 
 ## TODO
 
-Sometimes, when I come across typos or have pending achievements to update, I like to refine them here before integrating them into my CV and personal pages during my free time.
+Sometimes, when coming across typos or having pending achievements to update, I like to refine them here first before integrating them into my CV and personal webpages during my free time.
 
 ###### About Me
 Nothing more  
