@@ -11,11 +11,11 @@ redirect_from:
 
 1. <p id="paper-1"></p>**Fact-or-Fair: A Checklist for Behavioral Testing of AI Models on Fairness-Related Queries**  
    Jen-tse Huang, **Yuhang Yan**, Linqi Liu, Yixin Wan, Wenxuan Wang, Kai-Wei Chang, Michael R. Lyu  
-   | *arXiv 2025* |<!-- *[Paper](https://YanY-Henry.github.io/files/publications/Fact_or_Fair.pdf)* |--> *DOI: [10.48550/arXiv.2502.05849](https://doi.org/10.48550/arXiv.2502.05849)* | [*code*](https://github.com/uclanlp/fact-or-fair) |
+   | *arXiv 2025* |<!-- *[Paper](https://yany-henry.me/files/publications/Fact_or_Fair.pdf)* |--> *DOI: [10.48550/arXiv.2502.05849](https://doi.org/10.48550/arXiv.2502.05849)* | [*code*](https://github.com/uclanlp/fact-or-fair) |
 
 ## Projects
 
-* **Fact or Fairness? Identifying Over-Balanced Issues** [[Slides](https://YanY-Henry.github.io/files/FinalYearProject2024_Slides.pdf)]
+* **Fact or Fairness? Identifying Over-Balanced Issues** [[Slides](https://yany-henry.me/files/FinalYearProject2024_Slides.pdf)]
   <span style="float: right;">Apr. 2024 - present</span>  
   *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) & [Dr. Jen-tse Huang](https://penguinnnnn.github.io/index.html) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
@@ -23,7 +23,7 @@ redirect_from:
   * **Investigated the trade-offs** between fairness and accuracy in generative models, assessing how these factors influence model performance. [[1]](#paper-1){: .in-site-indexing }
   * **Developed quantitative metrics** to evaluate fairness, improving bias detection and enhance fairness assessments in generative model outputs.
 
-* **Evaluation on the Vulnerability of Current Generative Models** [[Slides](https://YanY-Henry.github.io/files/SemesterProject2024_Slides.pdf)]
+* **Evaluation on the Vulnerability of Current Generative Models** [[Slides](https://yany-henry.me/files/SemesterProject2024_Slides.pdf)]
   <span style="float: right;">Feb. 2024 - Jun. 2024</span>  
   *Supervisor: [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) & [Dr. Daichi Zhang](https://daisy-zhang.github.io) ([IVRL](https://www.epfl.ch/labs/ivrl/){: .no-underline-black-link }@[EPFL](https://www.epfl.ch/en/){: .no-underline-black-link })*
   <span style="float: right;">Lausanne, Switzerland</span>
@@ -31,7 +31,7 @@ redirect_from:
   * **Analyzed biases in diffusion models** finding gender and racial biases in generated images, which calls for more diverse training datasets.
   * **Evaluated fake image detectors** uncovering demographic disparities in detection accuracy, highlighting the need for fairer training data.
 
-* **Efficient Video Analytics** [[Poster](https://YanY-Henry.github.io/files/SummerResearch2023_Poster.pdf)]
+* **Efficient Video Analytics** [[Poster](https://yany-henry.me/files/SummerResearch2023_Poster.pdf)]
   <span style="float: right;">Jun. 2023 - Sep. 2023</span>  
   *Supervisor: [Prof. Eric Lo](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) ([CPII](https://www.cpii.hk){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>

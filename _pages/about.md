@@ -13,10 +13,10 @@ I am Henry, Yuhang YAN, a final year **Computer Science** undergraduate at **The
 
 💥 <span style="color:#e89b00">Currently, I am applying to graduate programs in the United States for Fall 2025, hoping this new journey will better prepare me for my future academic and professional endeavors.</span>
 <!--
-Download my full CV [here](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_EN.pdf).
+Download my full CV [here](https://yany-henry.me/files/CV_YanYuhangHenry_EN.pdf).
 -->
 <!--
-Download my full resume here 👉 ( [English](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_EN.pdf) / [中文](https://YanY-Henry.github.io/files/CV_YanYuhangHenry_ZH.pdf) ).
+Download my full resume here 👉 ( [English](https://yany-henry.me/files/CV_YanYuhangHenry_EN.pdf) / [中文](https://yany-henry.me/files/CV_YanYuhangHenry_ZH.pdf) ).
 -->
 
 ## Current Work
