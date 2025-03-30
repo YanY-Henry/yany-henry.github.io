@@ -1,0 +1,59 @@
+<div class="logo-wrapper">
+  <div class="logo-container" id="logoContainer">
+    <img src="../images/universities/Cornell.png" alt="Logo 1" onclick="window.open('https://tech.cornell.edu', '_blank')">
+    <img src="../images/universities/CUHK.png" alt="Logo 2" onclick="window.open('https://www.cuhk.edu.hk/english/index.html', '_blank')">
+    <img src="../images/universities/EPFL.png" alt="Logo 3" onclick="window.open('https://www.epfl.ch/en/', '_blank')">
+    <img src="../images/universities/PKU.png" alt="Logo 4" onclick="window.open('https://english.pku.edu.cn', '_blank')">
+  </div>
+</div>
+
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .logo-wrapper {
+    width: 100%;
+    padding-top: 0.75em;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
+
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    transform-origin: top center;
+  }
+
+  .logo-container img {
+    height: 40px;
+    object-fit: contain;
+    user-select: none;
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  function scaleLogos() {
+    const container = document.getElementById('logoContainer');
+    const wrapper = container.parentElement;
+
+    container.style.transform = 'scale(1) translateX(0)';
+
+    const containerWidth = 695;
+    const wrapperWidth = wrapper.clientWidth;
+
+    if (containerWidth > wrapperWidth) {
+      const scale = wrapperWidth / containerWidth;
+      const offset = (wrapperWidth - containerWidth * scale) / 2;
+      container.style.transform = `scale(${scale}) translateX(${offset / scale}px)`;
+    }
+  }
+
+  window.addEventListener('load', scaleLogos);
+  window.addEventListener('resize', scaleLogos);
+</script>
