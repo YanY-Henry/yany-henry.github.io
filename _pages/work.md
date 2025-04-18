@@ -14,7 +14,7 @@ redirect_from:
   *Algorithm Engineer*
   <span style="float: right;">Shenzhen, China</span>
   * **Automated the monitoring platform** using RPA technology, enabling fully autonomous real-time surveillance without human intervention. [[1]](#patent-1){: .in-site-indexing }
-  * **Designed an security system** with large models for efficient target retrieval of people, objects, and events from large-scale video data. [[Demo]](https://www.youtube.com/watch?v=cm2Rw5E4glI)
+  * **Designed an security system** with large models for efficient target retrieval of people, objects, and events from large-scale video data.
   * **Fine-tuned proprietary large language model** ["iCanBridge"](https://mp.weixin.qq.com/s/CTaQ5AQ4r04BNOxkc92k0Q){: .no-underline-black-link } through self-awareness training, enhancing its cognition capabilities.
 
 ## Startup
@@ -32,4 +32,4 @@ redirect_from:
 
 1. <p id="patent-1"></p>**A natural language interactive retrieval intelligent security system based on large model**  
    Heng Yang, Yongjie Wu, Tao Long, **Yuhang Yan**  
-   | *CN 118939831 A* | *Published 2024-11-12* | *[Google Patent](https://patents.google.com/patent/CN118939831A/en)* |
+   | *CN 118939831 A* | *Published 2024-11-12* | *[Google Patent](https://patents.google.com/patent/CN118939831A/en)* | *[Demo](https://www.youtube.com/watch?v=cm2Rw5E4glI)* | *[News (CN Only)](https://news.qq.com/rain/a/20250415A07B7L00)* |
