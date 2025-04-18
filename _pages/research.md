@@ -15,7 +15,7 @@ redirect_from:
 
 ## Projects
 
-* **Fact or Fairness? Identifying Over-Balanced Issues** [[Slides](https://yany-henry.me/files/FinalYearProject2024_Slides.pdf)]
+* **Fact or Fairness? Identifying Over-Balanced Issues** [[Slides 1](https://yany-henry.me/files/FinalYearProject2024_Slides.pdf)] [[Slides 2](https://yany-henry.me/files/FinalYearProject2025_Slides.pdf)]
   <span style="float: right;">Apr. 2024 - present</span>  
   *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) & [Dr. Jen-tse Huang](https://penguinnnnn.github.io/index.html) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
