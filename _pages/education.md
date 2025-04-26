@@ -26,7 +26,7 @@ redirect_from:
 
 * **Language**: English (Proficient), Mandarin (Native) and Cantonese (Intermediate).
 * **Programming**:  C/C++, Java, JavaScript{React, Vue}, MATLAB, Python{Flask, PyTorch, TensorFlow} and SQL.
-* **Tools**: $\mathrm{\LaTeX}$, Conda, Docker, Git, Linux, Spark and Vim.
+* **Tools**: $\mathrm{\LaTeX}$, Axure, Conda, Docker, Git, Linux, Office, Spark, Vim and Xmind.
 
 
 ## Honors and Scholarships
