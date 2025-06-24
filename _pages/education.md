@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Education Experience"
 permalink: /education/
 author_profile: true
@@ -7,19 +6,26 @@ redirect_from:
 
 ---
 
-{% include base_path %} 
-
 ## Background
 
+* **[Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }**
+  <span style="float: right;">Aug. 2025 - May 2027 (expected)</span>  
+  *[Dual M.S. in Applied Information Science & Information Systems](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/){: .no-underline-black-link }*
+  <span style="float: right;">New York, USA</span> 
+  * Member of **[Jacobs Technion-Cornell Institute](https://tech.cornell.edu/jacobs-technion-cornell-institute/){: .no-underline-black-link }**.
+  * Program jointly offered by **[Cornell University](https://www.cornell.edu/){: .no-underline-black-link }** and the **[Technion-Israel Institute of Technology](https://www.technion.ac.il/en/){: .no-underline-black-link }**.
+
 * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**
-  <span style="float: right;">Aug. 2021 - Jul. 2025 (expected)</span>  
+  <span style="float: right;">Aug. 2021 - Jul. 2025</span>  
   *[B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }*
-  <span style="float: right;">Hong Kong SAR</span>  
-  * Cumulative GPA: **3.757**/4.000 (Top 10%).
+  <span style="float: right;">Hong Kong SAR</span> 
   * Member of **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
   * **Spring Semester Exchange** to [IC School](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2023-24.
   * **Spring Semester Exchange** to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, [Peking University **(PKU)**](https://english.pku.edu.cn){: .no-underline-black-link }, 2022-23.
+
 * Ranked **top 0.4%** among 110,000 science students in the 2021 [Chinese National College Entrance Exam](https://en.wikipedia.org/wiki/Gaokao){: .no-underline-black-link }.
+
+{% include uni_logo_bar.html %}
 
 
 ## Skills
@@ -30,6 +36,8 @@ redirect_from:
 
 
 ## Honors and Scholarships
+
+* Merit Scholarship Award (20,000 USD)<span style="float: right;">*[Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }, 2025*</span>  
 * Outstanding Student Scholarship (15,000 HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2022 & 2023 & 2024*</span>  
 * Multiple Exchange Scholarship (32,400 HKD)<span style="float: right;">*[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }, 2023 & 2024*</span>
 * Best Project Award (**Top 5** of 58 [Undergraduate Summer Research Internship](https://www.erg.cuhk.edu.hk/erg/SummerResearchInternship){: .no-underline-black-link })<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2023*</span>  
