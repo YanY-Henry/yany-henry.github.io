@@ -11,7 +11,7 @@ redirect_from:
 
 1. <p id="paper-1"></p>**Fact-or-Fair: A Checklist for Behavioral Testing of AI Models on Fairness-Related Queries**  
    Jen-tse Huang, **Yuhang Yan**, Linqi Liu, Yixin Wan, Wenxuan Wang, Kai-Wei Chang, Michael R. Lyu  
-   | *arXiv 2025* |<!-- *[Paper](https://yany-henry.me/files/publications/Fact_or_Fair.pdf)* |--> *DOI: [10.48550/arXiv.2502.05849](https://doi.org/10.48550/arXiv.2502.05849)* | [*code*](https://github.com/uclanlp/fact-or-fair) |
+   | *EMNLP Findings 2025* |<!-- *[Paper](https://yany-henry.me/files/publications/Fact_or_Fair.pdf)* |--> *DOI: [10.48550/arXiv.2502.05849](https://doi.org/10.48550/arXiv.2502.05849)* | [*code*](https://github.com/uclanlp/fact-or-fair) |
 
 ## Projects
 
