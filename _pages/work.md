@@ -9,9 +9,15 @@ redirect_from:
 
 ## Internship
 
+* [**MetaX Integrated Circuits Co., Ltd.**](https://www.metax-tech.com/en){: .no-underline-black-link }
+  <span style="float: right;">May 2025 - Jul. 2025</span>  
+  *Technology Evangelist*
+  <span style="float: right;">Shanghai, China</span>
+  * **To be updated**
+
 * [**AiMall Technology Co., Ltd.**](https://www.mall-ai.com){: .no-underline-black-link }
   <span style="float: right;">Jun. 2024 - Aug. 2024</span>  
-  *Algorithm Engineer*
+  *Machine Learning Engineer*
   <span style="float: right;">Shenzhen, China</span>
   * **Automated the monitoring platform** using RPA technology, enabling fully autonomous real-time surveillance without human intervention. [[1]](#patent-1){: .in-site-indexing }
   * **Designed an security system** with large models for efficient target retrieval of people, objects, and events from large-scale video data.

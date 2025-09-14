@@ -1,8 +1,8 @@
 ---
 layout: archive
 published: true
-title: "Research Experience"
-permalink: /research/
+title: "Project Experience"
+permalink: /project/
 author_profile: true
 redirect_from:
 ---
@@ -13,7 +13,7 @@ redirect_from:
    Jen-tse Huang, **Yuhang Yan**, Linqi Liu, Yixin Wan, Wenxuan Wang, Kai-Wei Chang, Michael R. Lyu  
    | *EMNLP Findings 2025* |<!-- *[Paper](https://yany-henry.me/files/publications/Fact_or_Fair.pdf)* |--> *DOI: [10.48550/arXiv.2502.05849](https://doi.org/10.48550/arXiv.2502.05849)* | [*code*](https://github.com/uclanlp/fact-or-fair) |
 
-## Projects
+## Selected Projects
 
 * **Fact or Fairness? Identifying Over-Balanced Issues** [[Slides 1](https://yany-henry.me/files/FinalYearProject2024_Slides.pdf)] [[Slides 2](https://yany-henry.me/files/FinalYearProject2025_Slides.pdf)]
   <span style="float: right;">Apr. 2024 - present</span>  
