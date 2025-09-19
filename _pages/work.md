@@ -13,15 +13,18 @@ redirect_from:
   <span style="float: right;">May 2025 - Jul. 2025</span>  
   *Technology Evangelist*
   <span style="float: right;">Shanghai, China</span>
-  * **To be updated**
+  * **Contributed to an AIGC textbook** by writing documentation and sample code for AI Agent and MCP, spreading advanced AI concepts.
+  * **Built AI Agent workflows** on the Dify platform for content generation and large-scale data analysis, enhancing performance and scalability.
+  * **Conducted workshops and training sessions** on LLMs and agentic AI in partnership with universities and enterprises to promote AI adoption.
 
 * [**AiMall Technology Co., Ltd.**](https://www.mall-ai.com){: .no-underline-black-link }
   <span style="float: right;">Jun. 2024 - Aug. 2024</span>  
   *Machine Learning Engineer*
   <span style="float: right;">Shenzhen, China</span>
   * **Automated the monitoring platform** using RPA technology, enabling fully autonomous real-time surveillance without human intervention. [[1]](#patent-1){: .in-site-indexing }
-  * **Designed an security system** with large models for efficient target retrieval of people, objects, and events from large-scale video data.
-  * **Fine-tuned proprietary large language model** ["iCanBridge"](https://mp.weixin.qq.com/s/CTaQ5AQ4r04BNOxkc92k0Q){: .no-underline-black-link } through self-awareness training, enhancing its cognition capabilities.
+  * **Designed a security system** with large models for efficient target retrieval of people, objects, and events from large-scale video data.
+  * **Developed vis-lang pipelines** with custom object detection and DeepSORT preprocessing, fine-tuned using LoRA, achieving 95%+ recall.
+  * **Fine-tuned proprietary LLM** ["iCanBridge"](https://mp.weixin.qq.com/s/CTaQ5AQ4r04BNOxkc92k0Q){: .no-underline-black-link } with open datasets to improve self-recognition and deliver more context-aware responses.
 
 ## Startup
 
@@ -30,8 +33,8 @@ redirect_from:
   *Co-founder & CTO*
   <span style="float: right;">Hong Kong SAR</span>
   * **Led AIJobTech’s mission** as a co-founder and CTO to automate and personalize job searches, improving efficiency in job-seeking support.
-  * **Directed the development** of AI tools that score and optimize resumes, providing tailored suggestions to enhance their effectiveness and appeal.
-  * **Guided the technical team** in implementing resume-job matching algorithms, delivering personalized job recommendations and career insights.
+  * **Created AI agent workflows** with LangChain and design metrics (rule-based and AI-powered) to deliver personalized suggestions for resumes.
+  * **Implemented CV-job matching algorithms** using LLMs and collaborative filtering to deliver tailored job recommendations and career insights.
   * Selected for [HKSTP Ideation Programme](https://www.hkstp.org/what-we-offer/incubation-acceleration-elite/ideation/){: .no-underline-black-link }, [HKU iDendron@Wanchai](https://tec.hku.hk/idendronwanchai/){: .no-underline-black-link } and [CUHK VCCE](https://cuhkvcce.com){: .no-underline-black-link }.
 
 ## Patent
