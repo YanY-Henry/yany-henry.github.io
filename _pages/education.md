@@ -32,17 +32,17 @@ redirect_from:
 
 * **Language**: English (Proficient), Mandarin (Native) and Cantonese (Intermediate).
 * **Programming**:  C/C++, Java, JavaScript{React, Vue}, MATLAB, Python{Flask, PyTorch, TensorFlow} and SQL.
-* **Tools**: $\mathrm{\LaTeX}$, Axure, Conda, Docker, Git, Linux, Office, Spark, Vim and Xmind.
+* **Tools**: $\mathrm{\LaTeX}$, Axure, Conda, Docker, Git, Linux, Office, Shell, Spark, Vim and Xmind.
 
 
 ## Honors and Scholarships
 
-* Merit Scholarship Award (20,000 USD)<span style="float: right;">*[Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }, 2025*</span>
+* Jacobs CM Fellowship (Merit Scholarship) (20,000 USD)<span style="float: right;">*[Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }, 2025*</span>
 * Scholarship for ELITE Stream Student (16,000 HKD)<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2025*</span>  
 * Whole Person Development Award (5,000 HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2025*</span>
 * Outstanding Student Scholarship (15,000 HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2022 & 2023 & 2024*</span>  
 * Multiple Exchange Scholarship (32,400 HKD)<span style="float: right;">*[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }, 2023 & 2024*</span>
-* Best Project Award (**Top 5** of 58 [Undergraduate Summer Research Internship](https://www.erg.cuhk.edu.hk/erg/SummerResearchInternship){: .no-underline-black-link })<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2023*</span>  
+* Best Project Award (**Top 5** of 58 [UG Summer Research Internship](https://www.erg.cuhk.edu.hk/erg/SummerResearchInternship){: .no-underline-black-link })<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2023*</span>  
 * Dean’s List (**Top 10%**)<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2022*</span>  
 * Honorable Mention of [Mathematical Contest In Modeling (**MCM**)](https://www.comap.com/contests/mcm-icm){: .no-underline-black-link }<span style="float: right;">*[COMAP](https://www.comap.com){: .no-underline-black-link }, 2022*</span>  
 * Matriculation Scholarships for Academic Excellence (5,000 HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2021*</span>
