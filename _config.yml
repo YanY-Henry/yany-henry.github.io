@@ -8,9 +8,9 @@
 # Site Settings
 favicon                  : "/images/logo/favicon-320x320.png"
 locale                   : "en-US"
-title                    : "Yuhang YAN (Henry)"
+title                    : "Henry YAN"
 title_separator          : "-"
-name                     : &name "Yuhang YAN (Henry)"
+name                     : &name "Henry Yan"
 description              : &description "personal description"
 url                      : https://yany-henry.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,10 +81,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhang YAN (Henry)"
+  name             : "Henry Yan"
   avatar           : "profile.jpg"
   bio              : "\"All human wisdom is contained in these two words,—'Wait and hope.'\" — Alexandre Dumas" 
-  location         : "Hong Kong SAR"
+  location         : "New York, USA"
   employer         : # "The Chinese University of Hong Kong"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
