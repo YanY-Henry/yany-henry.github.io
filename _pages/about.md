@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yuhang's Homepage"
+title: "Welcome to Henry's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,13 +9,12 @@ redirect_from:
 
 ## About me
 
-I am Henry, Yuhang YAN, a final year **Computer Science** undergraduate at **The Chinese University of Hong Kong (CUHK)** and a member of the Faculty of Engineering's ELITE Stream. During my second and third years, I had the opportunity to spend exchange semesters at Peking University (**PKU**) and École Polytechnique Fédérale de Lausanne (**EPFL**). My research and internship experiences have primarily focused on **multimodal AI application** and **AI ethic**, especially those involving **generative large models**, and I am still trying to explore various fields to enrich my knowledge.
+I am Henry, Yuhang Yan, a first-year dual M.S. student in **Applied Information Science & Information Systems** at [Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }, NYC. I hold a B.Sc. in **Computer Science** from [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }. 
 
-<!--
-💥 <span style="color:#e89b00">Currently, I am applying to graduate programs in the United States for Fall 2025, hoping this new journey will better prepare me for my future academic and professional endeavors.</span>
+My experience includes research and development in **multimodal AI**, spanning LLMs, VLMs, and intelligent agents, as well as projects in **AI ethics** focused on the responsible design of human-centered, accessible systems.
 
-Download my full CV [here](https://yany-henry.me/files/CV_YanYuhangHenry_EN.pdf).
--->
+💥 <span style="color:#e89b00">Currently, I’m seeking **Machine Learning Engineer (MLE)** or **Software Development Engineer (SDE)** internship opportunities for **Summer 2026**.</span> Download my full CV [here](https://yany-henry.me/files/CV_HenryYan.pdf).
+
 <!--
 Download my full resume here 👉 ( [English](https://yany-henry.me/files/CV_YanYuhangHenry_EN.pdf) / [中文](https://yany-henry.me/files/CV_YanYuhangHenry_ZH.pdf) ).
 -->
