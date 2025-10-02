@@ -13,7 +13,7 @@ I am Henry, Yuhang Yan, a first-year dual M.S. student in **Applied Information 
 
 My experience includes research and development in **multimodal AI**, spanning LLMs, VLMs, and intelligent agents, as well as projects in **AI ethics** focused on the responsible design of human-centered, accessible systems.
 
-💥 <span style="color:#e89b00">Currently, I’m seeking **Machine Learning Engineer (MLE)** or **Software Development Engineer (SDE)** internship opportunities for **Summer 2026**.</span> Download my full CV [here](https://yany-henry.me/files/CV_YanYuhangHenry_EN.pdf).
+💥 <span style="color:#e89b00">Currently, I’m seeking **Machine Learning Engineer (MLE)** or **Software Development Engineer (SDE)** internship opportunities for **Summer 2026**.</span> Download my full CV [here](https://yany-henry.me/files/CV_HenryYan.pdf).
 
 <!--
 Download my full resume here 👉 ( [English](https://yany-henry.me/files/CV_YanYuhangHenry_EN.pdf) / [中文](https://yany-henry.me/files/CV_YanYuhangHenry_ZH.pdf) ).
