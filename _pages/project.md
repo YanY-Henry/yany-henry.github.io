@@ -11,7 +11,7 @@ redirect_from:
 
 1. <p id="paper-1"></p>**Where Fact Ends and Fairness Begins: Redefining AI Bias Evaluation through Cognitive Biases**  
    Jen-tse Huang, **Yuhang Yan**, Linqi Liu, Yixin Wan, Wenxuan Wang, Kai-Wei Chang, Michael R. Lyu  
-   | *EMNLP Findings 2025* |<!-- *[Paper](https://yany-henry.me/files/publications/Fact_or_Fair.pdf)* |--> *DOI: [10.48550/arXiv.2502.05849](https://doi.org/10.48550/arXiv.2502.05849)* | [*code*](https://github.com/uclanlp/fact-or-fair) |
+   | *EMNLP Findings 2025* |<!-- *[Paper](https://yany-henry.me/files/publications/Fact_or_Fair.pdf)* |--> *DOI: [10.18653/v1/2025.findings-emnlp.583](https://aclanthology.org/2025.findings-emnlp.583/)* | [*code*](https://github.com/uclanlp/fact-or-fair) |
 
 ## Selected Projects
 
