@@ -17,7 +17,7 @@ redirect_from:
   * **Built AI Agent workflows** on the Dify platform for content generation and large-scale data analysis, enhancing performance and scalability.
   * **Conducted workshops and training sessions** on LLMs and agentic AI in partnership with universities and enterprises to promote AI adoption.
 
-* [**AiMall Technology Co., Ltd.**](https://www.mall-ai.com){: .no-underline-black-link }
+* [**AiMall Technology Co., Ltd.**](https://www.mall-ai.com/en/){: .no-underline-black-link }
   <span style="float: right;">Jun. 2024 - Aug. 2024</span>  
   *Machine Learning Engineer*
   <span style="float: right;">Shenzhen, China</span>
