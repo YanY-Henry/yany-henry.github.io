@@ -15,8 +15,15 @@ redirect_from:
 
 ## Selected Projects
 
+* **AI-enabled Digital Health: Wearables & Hepatology**
+  <span style="float: right;">Jan. 2026 - present</span>  
+  *Supervisor: [Prof. Deborah Estrin](https://tech.cornell.edu/people/deborah-estrin/) & [Prof. JP Pollak](https://tech.cornell.edu/people/jp-pollak/)*
+  <span style="float: right;">New York, USA</span>
+  * Developing an AI-enabled digital health platform with JupyterHealth integrating [Oura Ring](https://ouraring.com/){: .no-underline-black-link } and clinical data to predict hepatology outcomes.
+  * To be updated ...
+
 * **Can AI Agent Fit in Human Society?** [[Slides 1](https://yany-henry.me/files/FinalYearProject2024_Slides.pdf)] [[Slides 2](https://yany-henry.me/files/FinalYearProject2025_Slides.pdf)]
-  <span style="float: right;">Apr. 2024 - present</span>  
+  <span style="float: right;">Apr. 2024 - Aug. 2025</span>  
   *Supervisor: [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) & [Dr. Jen-tse Huang](https://penguinnnnn.github.io/index.html) ([ARISE](http://ariselab.cse.cuhk.edu.hk/){: .no-underline-black-link }@[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link })*
   <span style="float: right;">Hong Kong SAR</span>
   * **Analyzed gender and racial biases** in generative models using demographic data, uncovering issues of over-balance in content generation.
