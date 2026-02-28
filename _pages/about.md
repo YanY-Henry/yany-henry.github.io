@@ -21,9 +21,5 @@ Download my full resume here 👉 ( [English](https://yany-henry.me/files/CV_Yan
 
 ## Current Work
 
-1. "**Can AI Agent Fit in Human Society?**" supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/){: .no-underline-black-link }.  
-   About: Generative models, Social bias and Trustworthy AI.
-1. **[AIJobTech](https://aijobtech.co/){: .no-underline-black-link }**, CTO in the AI-driven start-up.  
-   About: Full-stack development, Large language models and Recommendation systems.
-
-
+1. "**AI-enabled Digital Health: Wearables & Hepatology**" supervised by [Prof. Deborah Estrin](https://tech.cornell.edu/people/deborah-estrin/) and [Prof. JP Pollak](https://tech.cornell.edu/people/jp-pollak/).  
+   About: Clinical AI agents and Wearable data analytics.
