@@ -9,6 +9,12 @@ redirect_from:
 
 ## Internship
 
+* [**Clearwater Analytics, LLC.**](https://cwan.com){: .no-underline-black-link }
+  <span style="float: right;">Jun. 2026 - Aug. 2026</span>  
+  *Software Engineer*
+  <span style="float: right;">New York, United States</span>
+  * To be updated ...
+
 * [**MetaX Integrated Circuits Co., Ltd.**](https://www.metax-tech.com/en){: .no-underline-black-link }
   <span style="float: right;">May 2025 - Jul. 2025</span>  
   *Technology Evangelist*
