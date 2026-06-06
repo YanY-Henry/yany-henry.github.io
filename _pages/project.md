@@ -18,7 +18,7 @@ redirect_from:
 * **AI-enabled Digital Health: Wearables & Hepatology**
   <span style="float: right;">Jan. 2026 - present</span>  
   *Supervisor: [Prof. Deborah Estrin](https://tech.cornell.edu/people/deborah-estrin/) & [Prof. JP Pollak](https://tech.cornell.edu/people/jp-pollak/)*
-  <span style="float: right;">New York, USA</span>
+  <span style="float: right;">New York, NY, USA</span>
   * Developing an AI-enabled digital health platform with JupyterHealth integrating [Oura Ring](https://ouraring.com/){: .no-underline-black-link } and clinical data to predict hepatology outcomes.
   * To be updated ...
 
