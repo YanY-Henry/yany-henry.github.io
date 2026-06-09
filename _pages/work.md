@@ -11,7 +11,7 @@ redirect_from:
 
 * [**Clearwater Analytics, LLC.**](https://cwan.com){: .no-underline-black-link }
   <span style="float: right;">Jun. 2026 - Aug. 2026</span>  
-  *Software Engineer*
+  *Software Development Engineer*
   <span style="float: right;">New York, NY, United States</span>
   * To be updated ...
 

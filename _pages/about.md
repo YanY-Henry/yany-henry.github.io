@@ -21,7 +21,7 @@ Download my full resume here 👉 ( [English](https://yany-henry.me/files/CV_Yan
 
 ## Current Work
 
-1. **[Clearwater Analytics, LLC.](https://cwan.com){: .no-underline-black-link }**, intern as a Software Engineer.  
+1. **[Clearwater Analytics, LLC.](https://cwan.com){: .no-underline-black-link }**, intern as a Software Development Engineer.  
 
 2. "**AI-enabled Digital Health: Wearables & Hepatology**" supervised by [Prof. Deborah Estrin](https://tech.cornell.edu/people/deborah-estrin/) and [Prof. JP Pollak](https://tech.cornell.edu/people/jp-pollak/).  
    About: Clinical AI agents and Wearable data analytics.
