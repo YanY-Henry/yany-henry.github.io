@@ -12,7 +12,7 @@ redirect_from:
 * [**Clearwater Analytics, LLC.**](https://cwan.com){: .no-underline-black-link }
   <span style="float: right;">Jun. 2026 - Aug. 2026</span>  
   *Software Engineer*
-  <span style="float: right;">New York, United States</span>
+  <span style="float: right;">New York, NY, United States</span>
   * To be updated ...
 
 * [**MetaX Integrated Circuits Co., Ltd.**](https://www.metax-tech.com/en){: .no-underline-black-link }

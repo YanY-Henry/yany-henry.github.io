@@ -11,7 +11,7 @@ redirect_from:
 * **[Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }**
   <span style="float: right;">Aug. 2025 - May 2027 (expected)</span>  
   *[Dual M.S. in Applied Information Science & Information Systems](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/){: .no-underline-black-link }*
-  <span style="float: right;">New York, USA</span> 
+  <span style="float: right;">New York, NY, USA</span> 
   * Member of **[Jacobs Technion-Cornell Institute](https://tech.cornell.edu/jacobs-technion-cornell-institute/){: .no-underline-black-link }**.
   * Program jointly offered by **[Cornell University](https://www.cornell.edu/){: .no-underline-black-link }** and the **[Technion-Israel Institute of Technology](https://www.technion.ac.il/en/){: .no-underline-black-link }**.
 
