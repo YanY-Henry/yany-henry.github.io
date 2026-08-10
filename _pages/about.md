@@ -9,19 +9,13 @@ redirect_from:
 
 ## About me
 
-I am Henry, Yuhang Yan, a first-year dual M.S. student in **Applied Information Science & Information Systems** at [Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }, NYC. I hold a B.Sc. in **Computer Science** from [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }. 
+I am **Henry (Yuhang) Yan**, a final-year dual M.S. student in **Applied Information Science & Information Systems** at [Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }, graduating in **May 2027**. I hold a B.Sc. in **Computer Science** from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }.
 
-My experience includes research and development in **multimodal AI**, spanning LLMs, VLMs, and intelligent agents, as well as projects in **AI ethics** focused on the responsible design of human-centered, accessible systems.
+My experience spans **software engineering and applied machine learning**, with strengths in backend development, data systems, system design, and end-to-end product engineering. I enjoy turning ambiguous problems into reliable, well-tested systems through thoughtful architecture, performance optimization, and product thinking.
 
-<!--
-💥 <span style="color:#e89b00">Currently, I’m seeking **Machine Learning Engineer (MLE)** or **Software Development Engineer (SDE)** internship opportunities for **Summer 2026**.</span> Download my full CV [here](https://yany-henry.me/files/CV_HenryYan.pdf).
-
-Download my full resume here 👉 ( [English](https://yany-henry.me/files/CV_YanYuhangHenry_EN.pdf) / [中文](https://yany-henry.me/files/CV_YanYuhangHenry_ZH.pdf) ).
--->
+Looking ahead to 2027, I am considering full-time **Software Development Engineer (SDE)** and **Machine Learning Engineer (MLE)** roles.
 
 ## Current Work
 
-1. **[Clearwater Analytics, LLC.](https://cwan.com){: .no-underline-black-link }**, intern as a Software Development Engineer.  
-
-2. "**AI-enabled Digital Health: Wearables & Hepatology**" supervised by [Prof. Deborah Estrin](https://tech.cornell.edu/people/deborah-estrin/) and [Prof. JP Pollak](https://tech.cornell.edu/people/jp-pollak/).  
-   About: Clinical AI agents and Wearable data analytics.
+1. "**AI-enabled Digital Health: Wearables & Hepatology**" supervised by [Prof. Deborah Estrin](https://tech.cornell.edu/people/deborah-estrin/) and [Prof. JP Pollak](https://tech.cornell.edu/people/jp-pollak/).  
+   About: Clinical AI agents, Platform Development and Wearable data analytics.

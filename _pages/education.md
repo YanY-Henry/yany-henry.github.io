@@ -30,9 +30,11 @@ redirect_from:
 
 ## Skills
 
-* **Language**: English (Proficient), Mandarin (Native) and Cantonese (Intermediate).
-* **Programming**:  C/C++, Java, JavaScript{React, Vue}, MATLAB, Python{Flask, PyTorch, TensorFlow} and SQL.
-* **Tools**: $\mathrm{\LaTeX}$, Axure, Conda, Docker, Git, Linux, Office, Shell, Spark, Vim and Xmind.
+* **Programming:** Python, C/C++, Java, JavaScript, MATLAB, SQL and Shell.
+* **AI & Data:** LLMs, Computer Vision, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy and Spark.
+* **Software:** FastAPI, Flask, React, Vue.js, REST APIs, MySQL, SQLite and Pytest.
+* **Tools:** AWS, Docker, Git, Linux, CUDA, CI/CD and $\mathrm{\LaTeX}$.
+* **Languages:** English (Proficient), Mandarin (Native) and Cantonese (Intermediate).
 
 
 ## Honors and Scholarships
@@ -51,6 +53,9 @@ redirect_from:
 
 
 ## Teaching Assistant
+
+* CS5112 (Fall 2026@Cornell Tech): [Algorithms and Data Structures for Applications](https://classes.cornell.edu/browse/roster/FA26/class/CS/5112){: .no-underline-black-link }
+  * Advanced Algorithms for Large-Scale Systems Course
 
 * GESH1010 (Fall 2022@CUHK): [Orientation and Outreach](https://www.shho.cuhk.edu.hk/general-education/induction-course-gesh1010-orientation-and-outreach/){: .no-underline-black-link }
   * S.H. Ho College General Education Induction Course
