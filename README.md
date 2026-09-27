@@ -14,23 +14,27 @@ font-size: [font-size](_sass/_reset.scss/#L14)
 font-family: [font-family](_sass/_variables.scss/#L32)  
 A cozy orange: `#e89b00`  
 right-justify: `<span style="float: right;">content</span>`  
-no-display link style: `[content](link){: .no-underline-black-link }`  
+no-display link style: `[content](link){: .no-underline-black-link }`
 
-## TODO
+## Local preview
 
-Sometimes, when coming across typos or having pending achievements to update, I like to refine them here first before integrating them into my CV and personal webpages during my free time.
+```sh
+bundle install
+bundle exec jekyll serve --config _config.yml,_config.dev.yml
+```
 
-###### About Me
-Nothing more  
+Open `http://localhost:4000`. The development configuration disables analytics.
+The site builds with Jekyll; browser scripts no longer require an npm build.
+Run `npm run check:js` for a JavaScript syntax check.
 
-###### Education
-Nothing more  
+## Editing the site
 
-###### Research
-Nothing more  
+- Content and experience entries: `_pages/`.
+- Navigation: `_data/navigation.yml`.
+- Profile and analytics settings: `_config.yml`.
+- Light/dark colors and shared controls: `_sass/_appearance.scss`.
+- Mobile entry alignment and logo layout: `_sass/_responsive.scss`.
+- Browser interactions: `assets/js/site.js`.
 
-###### Work
-Nothing more  
-
-###### Misc.
-Nothing more  
+Keep the commented personal material and existing PDF URLs when updating the site.
+Do not include certificates in published output.

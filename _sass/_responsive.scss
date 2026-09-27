@@ -1,0 +1,123 @@
+/* Shared alignment for education, experience, awards and activities. */
+.entry-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: baseline;
+  column-gap: 1em;
+  text-align: left;
+}
+
+.entry-title,
+.entry-meta {
+  min-width: 0;
+}
+
+.entry-meta {
+  text-align: right;
+}
+
+.page__content,
+.archive {
+  overflow-wrap: break-word;
+
+  a {
+    overflow-wrap: anywhere;
+  }
+}
+
+/* Let the actual logo dimensions determine wrapping; no resize script needed. */
+.logo-wrapper {
+  width: 100%;
+  padding-top: 0.75em;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+
+  a {
+    display: block;
+    min-width: 0;
+    max-width: 100%;
+    line-height: 0;
+  }
+
+  img {
+    display: block;
+    width: auto;
+    height: 40px;
+    max-width: 100%;
+    object-fit: contain;
+    user-select: none;
+  }
+}
+
+.personal-facts {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1em 2em;
+
+  ul {
+    margin-top: 5px;
+    margin-bottom: 0;
+  }
+
+  li:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.personality-link {
+  flex: 0 0 auto;
+
+  img {
+    display: block;
+    height: 85px;
+    width: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .page__content,
+  #main .archive,
+  #main .archive p {
+    text-align: left;
+  }
+
+  .page__content,
+  .archive {
+    ul,
+    ol {
+      padding-left: 1.3em;
+    }
+  }
+
+  .page__title {
+    line-height: 1.2;
+  }
+
+  .entry-row {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 0.1em;
+  }
+
+  .entry-meta {
+    text-align: left;
+  }
+
+  .entry-row + .entry-row {
+    margin-top: 0.2em;
+  }
+
+  .logo-container {
+    flex-wrap: wrap;
+    gap: 1em 1.25em;
+
+    img {
+      height: 32px;
+    }
+  }
+}

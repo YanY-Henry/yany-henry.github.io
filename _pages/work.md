@@ -9,27 +9,21 @@ redirect_from:
 
 ## Internship
 
-* [**Clearwater Analytics, LLC.**](https://cwan.com){: .no-underline-black-link }
-  <span style="float: right;">Jun. 2026 - Aug. 2026</span>  
-  *Software Development Engineer*
-  <span style="float: right;">New York, NY, United States</span>
+* <span class="entry-row"><span class="entry-title">[**Clearwater Analytics, LLC.**](https://cwan.com){: .no-underline-black-link }</span> <span class="entry-meta">Jun. 2026 - Aug. 2026</span></span>
+  <span class="entry-row"><span class="entry-title">*Software Development Engineer*</span> <span class="entry-meta">New York, NY, United States</span></span>
   * **Built a FastAPI data service** that replaced Python-only access with REST APIs for internal financial data across application frameworks.
   * **Created a reusable backend foundation** with JWT authentication, entitlement checks, error handling, structured logging, and OpenAPI docs.
   * **Optimized data access** with batched reads and LRU caching, reducing average latency by 21% and slowest-5% latency by 75%.
   * **Ensured cache consistency** with database Change Streams and validated reliability through 85+ unit, integration, and API tests.
 
-* [**MetaX Integrated Circuits Co., Ltd.**](https://www.metax-tech.com/en){: .no-underline-black-link }
-  <span style="float: right;">May 2025 - Jul. 2025</span>  
-  *Technology Evangelist*
-  <span style="float: right;">Shanghai, China</span>
+* <span class="entry-row"><span class="entry-title">[**MetaX Integrated Circuits Co., Ltd.**](https://www.metax-tech.com/en){: .no-underline-black-link }</span> <span class="entry-meta">May 2025 - Jul. 2025</span></span>
+  <span class="entry-row"><span class="entry-title">*Technology Evangelist*</span> <span class="entry-meta">Shanghai, China</span></span>
   * **Developed content and code** for a published AIGC textbook on multimodal applications using open-source models and Serverless APIs.
   * **Prototyped AI agent workflows** in Dify using product-data RAG, knowledge bases, tool calling, MCP, and multi-agent orchestration.
   * **Translated AI concepts** into practical demos for university partners and WAIC 2025, including a configurable story-generation application.
 
-* [**AiMall Technology Co., Ltd.**](https://www.mall-ai.com/en/){: .no-underline-black-link }
-  <span style="float: right;">Jun. 2024 - Aug. 2024</span>  
-  *Machine Learning Engineer*
-  <span style="float: right;">Shenzhen, China</span>
+* <span class="entry-row"><span class="entry-title">[**AiMall Technology Co., Ltd.**](https://www.mall-ai.com/en/){: .no-underline-black-link }</span> <span class="entry-meta">Jun. 2024 - Aug. 2024</span></span>
+  <span class="entry-row"><span class="entry-title">*Machine Learning Engineer*</span> <span class="entry-meta">Shenzhen, China</span></span>
   * **Built an AI surveillance platform** for natural-language video retrieval and voice-controlled camera operations. [[1]](#patent-1){: .in-site-indexing }
   * **Developed video search** that tracked people and converted key frames into searchable descriptions, achieving 95%+ retrieval accuracy.
   * **Enabled voice-controlled monitoring** by connecting LLM agents to preview and playback, eliminating 90% of camera-control steps.
@@ -37,10 +31,8 @@ redirect_from:
 
 ## Startup
 
-* [**AIJobTech, Ltd.**](https://www.linkedin.com/company/aijobtech-limited/){: .no-underline-black-link }
-  <span style="float: right;">Mar. 2024 - Jul. 2025</span>  
-  *Co-founder & CTO*
-  <span style="float: right;">Hong Kong SAR</span>
+* <span class="entry-row"><span class="entry-title">[**AIJobTech, Ltd.**](https://www.linkedin.com/company/aijobtech-limited/){: .no-underline-black-link }</span> <span class="entry-meta">Mar. 2024 - Jul. 2025</span></span>
+  <span class="entry-row"><span class="entry-title">*Co-founder & CTO*</span> <span class="entry-meta">Hong Kong SAR</span></span>
   * **Co-founded and led a four-engineer team** to launch an AI platform that helped jobseekers improve resumes and discover opportunities.
   * **Built an AI resume workflow** with LangChain to parse uploaded CVs, assess 5 hiring criteria, and generate editable, job-specific rewrites.
   * **Developed personalized job matching** with text embeddings and semantic similarity across technology and finance opportunities.

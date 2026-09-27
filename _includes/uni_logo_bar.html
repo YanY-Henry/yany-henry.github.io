@@ -1,54 +1,16 @@
 <div class="logo-wrapper">
-  <div class="logo-container" id="logoContainer">
-    <img src="../images/universities/Cornell.png" alt="Logo 1" onclick="window.open('https://tech.cornell.edu', '_blank')">
-    <img src="../images/universities/CUHK.png" alt="Logo 2" onclick="window.open('https://www.cuhk.edu.hk/english/index.html', '_blank')">
-    <img src="../images/universities/EPFL.png" alt="Logo 3" onclick="window.open('https://www.epfl.ch/en/', '_blank')">
-    <img src="../images/universities/PKU.png" alt="Logo 4" onclick="window.open('https://english.pku.edu.cn', '_blank')">
+  <div class="logo-container" aria-label="Universities">
+    <a href="https://tech.cornell.edu" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/universities/Cornell.png' | relative_url }}" alt="Cornell Tech" width="852" height="239" loading="lazy">
+    </a>
+    <a href="https://www.cuhk.edu.hk/english/index.html" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/universities/CUHK.png' | relative_url }}" alt="The Chinese University of Hong Kong" width="2308" height="406" loading="lazy">
+    </a>
+    <a href="https://www.epfl.ch/en/" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/universities/EPFL.png' | relative_url }}" alt="École Polytechnique Fédérale de Lausanne" width="1280" height="372" loading="lazy">
+    </a>
+    <a href="https://english.pku.edu.cn" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/universities/PKU.png' | relative_url }}" alt="Peking University" width="394" height="111" loading="lazy">
+    </a>
   </div>
 </div>
-
-<style>
-  .logo-wrapper {
-    width: 100%;
-    padding-top: 0.75em;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-  }
-
-  .logo-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 15px;
-    transform-origin: top center;
-  }
-
-  .logo-container img {
-    height: 40px;
-    object-fit: contain;
-    user-select: none;
-    cursor: pointer;
-  }
-</style>
-
-<script>
-  function scaleLogos() {
-    const container = document.getElementById('logoContainer');
-    const wrapper = container.parentElement;
-
-    container.style.transform = 'scale(1) translateX(0)';
-
-    const containerWidth = 695;
-    const wrapperWidth = wrapper.clientWidth;
-
-    if (containerWidth > wrapperWidth) {
-      const scale = wrapperWidth / containerWidth;
-      const offset = (wrapperWidth - containerWidth * scale) / 2;
-      container.style.transform = `scale(${scale}) translateX(${offset / scale}px)`;
-    }
-  }
-
-  window.addEventListener('load', scaleLogos);
-  window.addEventListener('resize', scaleLogos);
-</script>

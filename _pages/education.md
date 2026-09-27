@@ -8,17 +8,13 @@ redirect_from:
 
 ## Background
 
-* **[Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }**
-  <span style="float: right;">Aug. 2025 - May 2027 (expected)</span>  
-  *[Dual M.S. in Applied Information Science & Information Systems](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/){: .no-underline-black-link }*
-  <span style="float: right;">New York, NY, USA</span> 
+* <span class="entry-row"><span class="entry-title">**[Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }**</span> <span class="entry-meta">Aug. 2025 - May 2027 (expected)</span></span>
+  <span class="entry-row"><span class="entry-title">*[Dual M.S. in Applied Information Science & Information Systems](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/){: .no-underline-black-link }*</span> <span class="entry-meta">New York, NY, USA</span></span>
   * Member of **[Jacobs Technion-Cornell Institute](https://tech.cornell.edu/jacobs-technion-cornell-institute/){: .no-underline-black-link }**.
   * Program jointly offered by **[Cornell University](https://www.cornell.edu/){: .no-underline-black-link }** and the **[Technion-Israel Institute of Technology](https://www.technion.ac.il/en/){: .no-underline-black-link }**.
 
-* **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**
-  <span style="float: right;">Aug. 2021 - Jul. 2025</span>  
-  *[B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link } (First Class Honours)*
-  <span style="float: right;">Hong Kong SAR</span> 
+* <span class="entry-row"><span class="entry-title">**[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**</span> <span class="entry-meta">Aug. 2021 - Jul. 2025</span></span>
+  <span class="entry-row"><span class="entry-title">*[B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link } (First Class Honours)*</span> <span class="entry-meta">Hong Kong SAR</span></span>
   * Member of **[ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite){: .no-underline-black-link }** of [Faculty of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }; Member of **[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }**.
   * **Spring Semester Exchange** to [IC School](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2023-24.
   * **Spring Semester Exchange** to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, [Peking University **(PKU)**](https://english.pku.edu.cn){: .no-underline-black-link }, 2022-23.
@@ -40,17 +36,17 @@ redirect_from:
 
 ## Honors and Scholarships
 
-* Jacobs CM Fellowship (Merit Scholarship) (20,000 USD)<span style="float: right;">*[Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }, 2025*</span>
-* Scholarship for ELITE Stream Student (16,000 HKD)<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2025*</span>  
-* Whole Person Development Award (5,000 HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2025*</span>
-* Outstanding Student Scholarship (15,000 HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2022 & 2023 & 2024*</span>  
-* Multiple Exchange Scholarship (32,400 HKD)<span style="float: right;">*[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }, 2023 & 2024*</span>
-* Best Project Award (**Top 5** of 58 [UG Summer Research Internship](https://www.erg.cuhk.edu.hk/erg/SummerResearchInternship){: .no-underline-black-link })<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2023*</span>  
-* Dean’s List (**Top 10%**)<span style="float: right;">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2022*</span>  
-* Honorable Mention of [Mathematical Contest In Modeling (**MCM**)](https://www.comap.com/contests/mcm-icm){: .no-underline-black-link }<span style="float: right;">*[COMAP](https://www.comap.com){: .no-underline-black-link }, 2022*</span>  
-* Matriculation Scholarships for Academic Excellence (5,000 HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2021*</span>
-* 2<sup>nd</sup> Prize in National Mathematics Competition for Senior High<span style="float: right;">*[Chinese Mathematical Society](https://www.cms.org.cn/en/Home/about/about.html){: .no-underline-black-link }, 2020*</span>  
-* 2<sup>nd</sup> Prize in National Physics Competition for Senior High<span style="float: right;">*[Chinese Physical Society](http://cps-old.t2.dyuntech.com/English.htm){: .no-underline-black-link }, 2019*</span>  
+* <span class="entry-row"><span class="entry-title">Jacobs CM Fellowship (Merit Scholarship) (20,000 USD)</span> <span class="entry-meta">*[Cornell Tech](https://tech.cornell.edu){: .no-underline-black-link }, 2025*</span></span>
+* <span class="entry-row"><span class="entry-title">Scholarship for ELITE Stream Student (16,000 HKD)</span> <span class="entry-meta">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2025*</span></span>
+* <span class="entry-row"><span class="entry-title">Whole Person Development Award (5,000 HKD)</span> <span class="entry-meta">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2025*</span></span>
+* <span class="entry-row"><span class="entry-title">Outstanding Student Scholarship (15,000 HKD)</span> <span class="entry-meta">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2022 & 2023 & 2024*</span></span>
+* <span class="entry-row"><span class="entry-title">Multiple Exchange Scholarship (32,400 HKD)</span> <span class="entry-meta">*[CUHK](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }, 2023 & 2024*</span></span>
+* <span class="entry-row"><span class="entry-title">Best Project Award (**Top 5** of 58 [UG Summer Research Internship](https://www.erg.cuhk.edu.hk/erg/SummerResearchInternship){: .no-underline-black-link })</span> <span class="entry-meta">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2023*</span></span>
+* <span class="entry-row"><span class="entry-title">Dean’s List (**Top 10%**)</span> <span class="entry-meta">*[Fac. of Engineering](https://www.erg.cuhk.edu.hk/erg/){: .no-underline-black-link }, 2022*</span></span>
+* <span class="entry-row"><span class="entry-title">Honorable Mention of [Mathematical Contest In Modeling (**MCM**)](https://www.comap.com/contests/mcm-icm){: .no-underline-black-link }</span> <span class="entry-meta">*[COMAP](https://www.comap.com){: .no-underline-black-link }, 2022*</span></span>
+* <span class="entry-row"><span class="entry-title">Matriculation Scholarships for Academic Excellence (5,000 HKD)</span> <span class="entry-meta">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2021*</span></span>
+* <span class="entry-row"><span class="entry-title">2<sup>nd</sup> Prize in National Mathematics Competition for Senior High</span> <span class="entry-meta">*[Chinese Mathematical Society](https://www.cms.org.cn/en/Home/about/about.html){: .no-underline-black-link }, 2020*</span></span>
+* <span class="entry-row"><span class="entry-title">2<sup>nd</sup> Prize in National Physics Competition for Senior High</span> <span class="entry-meta">*[Chinese Physical Society](http://cps-old.t2.dyuntech.com/English.htm){: .no-underline-black-link }, 2019*</span></span>
 
 
 ## Teaching Assistant
