@@ -27,7 +27,7 @@ redirect_from:
 ## Skills
 
 * **Programming:** Python, C, C++, Java, JavaScript, MATLAB, SQL, Shell
-* **AI & Data:** LLMs, Computer Vision, PyTorch, TensorFlow, scikit-learn, pandas, NumPy, Apache Spark
+* **AI & Data:** LLMs, Computer Vision, PyTorch, TensorFlow, scikit-learn, pandas, NumPy, Spark
 * **Software:** FastAPI, Flask, React, Vue.js, REST APIs, MySQL, SQLite, pytest
 * **Tools:** AWS, Docker, Git, Linux, CUDA, CI/CD, LaTeX
 * **Languages:** English (Proficient), Mandarin (Native), Cantonese (Intermediate)
